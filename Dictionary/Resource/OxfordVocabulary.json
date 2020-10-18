@@ -1,0 +1,3182 @@
+[
+    {
+        "word": "abandon ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'bændən/ ",
+        "meaning": "bỏ, từ bỏ "
+    },
+    {
+        "word": "abandoned ",
+        "typeword": "adj. ",
+        "pronounciation": "/ə'bændənd/ ",
+        "meaning": "bị bỏ rơi, bị ruồng bỏ"
+    },
+    {
+        "word": "ability ",
+        "typeword": "n. ",
+        "pronounciation": "/ə'biliti/ ",
+        "meaning": "khả năng, năng lực"
+    },
+    {
+        "word": "able ",
+        "typeword": "adj. ",
+        "pronounciation": "/'eibl/ ",
+        "meaning": "có năng lực, có tài"
+    },
+    {
+        "word": "unable ",
+        "typeword": "adj. ",
+        "pronounciation": "/'ʌn'eibl/ ",
+        "meaning": "không có năng lực, không có tài"
+    },
+    {
+        "word": "about ",
+        "typeword": "adv., prep.",
+        "pronounciation": "/ə'baut/ ",
+        "meaning": "khoảng, về"
+    },
+    {
+        "word": "above ",
+        "typeword": "prep., adv.",
+        "pronounciation": "/ə'bʌv/ ",
+        "meaning": "ở trên, lên trên"
+    },
+    {
+        "word": "abroad ",
+        "typeword": "adv. ",
+        "pronounciation": "/ə'brɔ:d/ ",
+        "meaning": "ở, ra nước ngoài, ngoài trời"
+    },
+    {
+        "word": "absence ",
+        "typeword": "n. ",
+        "pronounciation": "/'æbsəns/ ",
+        "meaning": "sự vắng mặt"
+    },
+    {
+        "word": "absent ",
+        "typeword": "adj. ",
+        "pronounciation": "/'æbsənt/ ",
+        "meaning": "vắng mặt, nghỉ"
+    },
+    {
+        "word": "absolute ",
+        "typeword": "adj. ",
+        "pronounciation": "/'æbsəlu:t/ ",
+        "meaning": "tuyệt đối, hoàn toàn"
+    },
+    {
+        "word": "absolutely ",
+        "typeword": "adv. ",
+        "pronounciation": "/'æbsəlu:tli/ ",
+        "meaning": "tuyệt đối, hoàn toàn"
+    },
+    {
+        "word": "absorb ",
+        "typeword": "v. ",
+        "pronounciation": "/əb'sɔ:b/ ",
+        "meaning": "thu hút, hấp thu, lôi cuốn"
+    },
+    {
+        "word": "abuse ",
+        "typeword": "n., v. ",
+        "pronounciation": "/ə'bju:s/ ",
+        "meaning": "lộng hành, lạm dụng"
+    },
+    {
+        "word": "academic ",
+        "typeword": "adj. ",
+        "pronounciation": "/,ækə'demik/ ",
+        "meaning": "thuộc học viện, ĐH, viện hàn lâm"
+    },
+    {
+        "word": "accent ",
+        "typeword": "n. ",
+        "pronounciation": "/'æksənt/ ",
+        "meaning": "trọng âm, dấu trọng âm"
+    },
+    {
+        "word": "accept ",
+        "typeword": "v. ",
+        "pronounciation": "/ək'sept/ ",
+        "meaning": "chấp nhận, chấp thuận"
+    },
+    {
+        "word": "acceptable ",
+        "typeword": "adj. ",
+        "pronounciation": "/ək'septəbl/ ",
+        "meaning": "có thể chấp nhận, chấp thuận"
+    },
+    {
+        "word": "unacceptable ",
+        "typeword": "adj. ",
+        "pronounciation": "/'ʌnək'septəbl/ ",
+        "meaning": "không thể chấp nhận được"
+    },
+    {
+        "word": "access ",
+        "typeword": "n. ",
+        "pronounciation": "/'ækses/ ",
+        "meaning": "lối, cửa, đường vào"
+    },
+    {
+        "word": "accident ",
+        "typeword": "n. ",
+        "pronounciation": "/'æksidənt/ ",
+        "meaning": "tai nạn, rủi ro"
+    },
+    {
+        "word": "accidental ",
+        "typeword": "adj. ",
+        "pronounciation": "/,æksi'dentl/ ",
+        "meaning": "tình cờ, bất ngờ"
+    },
+    {
+        "word": "accidentally ",
+        "typeword": "adv. ",
+        "pronounciation": "/,æksi'dentəli/ ",
+        "meaning": "tình cờ, ngẫu nhiên"
+    },
+    {
+        "word": "accommodation ",
+        "typeword": "n. ",
+        "pronounciation": "/ə,kɔmə'deiʃn/ ",
+        "meaning": "sự thích nghi, điều tiết"
+    },
+    {
+        "word": "accompany ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'kʌmpəni/ ",
+        "meaning": "đi theo, đi cùng, kèm theo"
+    },
+    {
+        "word": "according to ",
+        "typeword": "prep. ",
+        "pronounciation": "/ə'kɔ:diɳ/ ",
+        "meaning": "theo, y theo"
+    },
+    {
+        "word": "account ",
+        "typeword": "n., v. ",
+        "pronounciation": "/ə'kaunt/ ",
+        "meaning": "tài khoản, kế toán; tính toán, tính đến"
+    },
+    {
+        "word": "accurate ",
+        "typeword": "adj. ",
+        "pronounciation": "/'ækjurit/ ",
+        "meaning": "đúng đắn, chính xác, xác đáng"
+    },
+    {
+        "word": "accurately ",
+        "typeword": "adv. ",
+        "pronounciation": "/'ækjuritli/ ",
+        "meaning": "đúng đắn, chính xác"
+    },
+    {
+        "word": "accuse ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'kju:z/ ",
+        "meaning": "tố cáo, buộc tội, kết tội"
+    },
+    {
+        "word": "achieve ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'tʃi:v/ ",
+        "meaning": "đạt được, dành được"
+    },
+    {
+        "word": "achievement ",
+        "typeword": "n. ",
+        "pronounciation": "/ə'tʃi:vmənt/ ",
+        "meaning": "thành tích, thành tựu"
+    },
+    {
+        "word": "acid ",
+        "typeword": "n. ",
+        "pronounciation": "/'æsid/ ",
+        "meaning": "axit"
+    },
+    {
+        "word": "acknowledge ",
+        "typeword": "v. ",
+        "pronounciation": "/ək'nɔlidʤ/ ",
+        "meaning": "công nhận, thừa nhận"
+    },
+    {
+        "word": "acquire ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'kwaiə/ ",
+        "meaning": "dành được, đạt được, kiếm được"
+    },
+    {
+        "word": "across ",
+        "typeword": "adv., prep.",
+        "pronounciation": "/ə'krɔs/ ",
+        "meaning": "qua, ngang qua"
+    },
+    {
+        "word": "act ",
+        "typeword": "n., v. ",
+        "pronounciation": "/ækt/ ",
+        "meaning": "hành động, hành vi, cử chỉ, đối xử"
+    },
+    {
+        "word": "action ",
+        "typeword": "n. ",
+        "pronounciation": "/'ækʃn/ ",
+        "meaning": "hành động, hành vi, tác động"
+    },
+    {
+        "word": "active ",
+        "typeword": "adj. ",
+        "pronounciation": "/'æktiv/ ",
+        "meaning": "tích cực hoạt động, nhanh nhẹn"
+    },
+    {
+        "word": "actively ",
+        "typeword": "adv. ",
+        "pronounciation": "/'æktivli/ ",
+        "meaning": "tích cực"
+    },
+    {
+        "word": "activity ",
+        "typeword": "n. ",
+        "pronounciation": "/æk'tiviti/ ",
+        "meaning": "hoạt động"
+    },
+    {
+        "word": "actor, actress",
+        "typeword": "n. ",
+        "pronounciation": "/'æktə/ /'æktris/",
+        "meaning": "diễn viên"
+    },
+    {
+        "word": "actual ",
+        "typeword": "adj. ",
+        "pronounciation": "/'æktjuəl/ ",
+        "meaning": "thực tế, có thật"
+    },
+    {
+        "word": "actually ",
+        "typeword": "adv. ",
+        "pronounciation": "/'æktjuəli/ ",
+        "meaning": "hiện nay, hiện tại"
+    },
+    {
+        "word": "advertisement ",
+        "typeword": "v. ",
+        "pronounciation": "/əd'və:tismənt/ ",
+        "meaning": "quảng cáo"
+    },
+    {
+        "word": "adapt ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'dæpt/ ",
+        "meaning": "tra, lắp vào"
+    },
+    {
+        "word": "add ",
+        "typeword": "v. ",
+        "pronounciation": "/æd/ ",
+        "meaning": "cộng, thêm vào"
+    },
+    {
+        "word": "addition ",
+        "typeword": "n. ",
+        "pronounciation": "/ə'diʃn/ ",
+        "meaning": "tính cộng, phép cộng"
+    },
+    {
+        "word": "additional ",
+        "typeword": "adj. ",
+        "pronounciation": "/ə'diʃənl/ ",
+        "meaning": "thêm vào, tăng thêm"
+    },
+    {
+        "word": "address ",
+        "typeword": "n., v. ",
+        "pronounciation": "/ə'dres/ ",
+        "meaning": "địa chỉ, đề địa chỉ"
+    },
+    {
+        "word": "adequate ",
+        "typeword": "adj. ",
+        "pronounciation": "/'ædikwit/ ",
+        "meaning": "đầy, đầy đủ "
+    },
+    {
+        "word": "adequately ",
+        "typeword": "adv. ",
+        "pronounciation": "/'ædikwitli/ ",
+        "meaning": "tương xứng, thỏa đáng"
+    },
+    {
+        "word": "adjust ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'dʤʌst/ ",
+        "meaning": "sửa lại cho đúng, điều chỉnh"
+    },
+    {
+        "word": "admiration ",
+        "typeword": "n. ",
+        "pronounciation": "/,ædmə'reiʃn/ ",
+        "meaning": "sự khâm phục,người kp, thán phục"
+    },
+    {
+        "word": "admire ",
+        "typeword": "v. ",
+        "pronounciation": "/əd'maiə/ ",
+        "meaning": "khâm phục, thán phục"
+    },
+    {
+        "word": "admit ",
+        "typeword": "v. ",
+        "pronounciation": "/əd'mit/ ",
+        "meaning": "nhận vào, cho vào, kết hợp"
+    },
+    {
+        "word": "adopt ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'dɔpt/ ",
+        "meaning": "nhận làm con nuôi, bố mẹ nuôi"
+    },
+    {
+        "word": "adult ",
+        "typeword": "n., adj. ",
+        "pronounciation": "/'ædʌlt/ ",
+        "meaning": "người lớn, người trưởng thành; trưởng thành"
+    },
+    {
+        "word": "advance ",
+        "typeword": "n., v. ",
+        "pronounciation": "/əd'vɑ:ns/ ",
+        "meaning": "sự tiến bộ, tiến lên; đưa lên, đề xuất"
+    },
+    {
+        "word": "advanced ",
+        "typeword": "adj. ",
+        "pronounciation": "/əd'vɑ:nst/ ",
+        "meaning": "tiên tiến, tiến bộ, cấp cao"
+    },
+    {
+        "word": "advantage ",
+        "typeword": "n. ",
+        "pronounciation": "/əb'vɑ:ntidʤ/ ",
+        "meaning": "sự thuận lợi, lợi ích, lợi thế"
+    },
+    {
+        "word": "adventure ",
+        "typeword": "n. ",
+        "pronounciation": "/əd'ventʃə/ ",
+        "meaning": "sự phiêu lưu, mạo hiểm"
+    },
+    {
+        "word": "advertise ",
+        "typeword": "v. ",
+        "pronounciation": "/'ædvətaiz/ ",
+        "meaning": "báo cho biết, báo cho biết trước"
+    },
+    {
+        "word": "advertising ",
+        "typeword": "n. ",
+        "pronounciation": " ",
+        "meaning": "sự quảng cáo, nghề quảng cáo"
+    },
+    {
+        "word": "advertisement",
+        "typeword": "n. ",
+        "pronounciation": "/əd'və:tismənt/",
+        "meaning": "quảng cáo"
+    },
+    {
+        "word": "advice ",
+        "typeword": "n. ",
+        "pronounciation": "/əd'vais/ ",
+        "meaning": "lời khuyên, lời chỉ bảo"
+    },
+    {
+        "word": "advise ",
+        "typeword": "v. ",
+        "pronounciation": "/əd'vaiz/ ",
+        "meaning": "khuyên, khuyên bảo, răn bảo"
+    },
+    {
+        "word": "affair ",
+        "typeword": "n. ",
+        "pronounciation": "/ə'feə/ ",
+        "meaning": "việc"
+    },
+    {
+        "word": "affect ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'fekt/ ",
+        "meaning": "làm ảnh hưởng, tác động đến"
+    },
+    {
+        "word": "affection ",
+        "typeword": "n. ",
+        "pronounciation": "/ə'fekʃn/ ",
+        "meaning": "tình cảm"
+    },
+    {
+        "word": "afford ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'fɔ:d/ ",
+        "meaning": "có thể, có đủ khả năng, điều kiện (làm gì)"
+    },
+    {
+        "word": "afraid ",
+        "typeword": "adj. ",
+        "pronounciation": "/ə'freid/ ",
+        "meaning": "sợ, sợ hãi, hoảng sợ"
+    },
+    {
+        "word": "after ",
+        "typeword": "prep., conj., adv.",
+        "pronounciation": "/'ɑ:ftə/ ",
+        "meaning": "sau, đằng sau, sau khi"
+    },
+    {
+        "word": "afternoon ",
+        "typeword": "n. ",
+        "pronounciation": "/'ɑ:ftə'nu:n/ ",
+        "meaning": "buổi chiều"
+    },
+    {
+        "word": "afterwards ",
+        "typeword": "adv. ",
+        "pronounciation": "/'ɑ:ftəwəd/ ",
+        "meaning": "sau này, về sau, rồi thì, sau đấy"
+    },
+    {
+        "word": "again ",
+        "typeword": "adv. ",
+        "pronounciation": "/ə'gen/ ",
+        "meaning": "lại, nữa, lần nữa"
+    },
+    {
+        "word": "against ",
+        "typeword": "prep. ",
+        "pronounciation": "/ə'geinst/ ",
+        "meaning": "chống lại, phản đối"
+    },
+    {
+        "word": "age ",
+        "typeword": "n. ",
+        "pronounciation": "/eidʤ/ ",
+        "meaning": "tuổi"
+    },
+    {
+        "word": "aged ",
+        "typeword": "adj. ",
+        "pronounciation": "/'eidʤid/ ",
+        "meaning": "già đi (v)"
+    },
+    {
+        "word": "agency ",
+        "typeword": "n. ",
+        "pronounciation": "/'eidʤənsi/ ",
+        "meaning": "tác dụng, lực; môi giới, trung gian"
+    },
+    {
+        "word": "agent ",
+        "typeword": "n. ",
+        "pronounciation": "/'eidʤənt/ ",
+        "meaning": "đại lý, tác nhân"
+    },
+    {
+        "word": "aggressive ",
+        "typeword": "adj. ",
+        "pronounciation": "/ə'gresiv/ ",
+        "meaning": "xâm lược, hung hăng (US: xông xáo)"
+    },
+    {
+        "word": "ago ",
+        "typeword": "adv. ",
+        "pronounciation": "/ə'gou/ ",
+        "meaning": "trước đây"
+    },
+    {
+        "word": "agree ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'gri:/ ",
+        "meaning": "đồng ý, tán thành"
+    },
+    {
+        "word": "agreement ",
+        "typeword": "n. ",
+        "pronounciation": "/ə'gri:mənt/ ",
+        "meaning": "sự đồng ý, tán thành; hiệp định, hợp đồng"
+    },
+    {
+        "word": "ahead ",
+        "typeword": "adv. ",
+        "pronounciation": "/ə'hed/ ",
+        "meaning": "trước, về phía trước"
+    },
+    {
+        "word": "aid ",
+        "typeword": "n., v. ",
+        "pronounciation": "/eid/ ",
+        "meaning": "sự giúp đỡ; thêm vào, phụ vào"
+    },
+    {
+        "word": "aim ",
+        "typeword": "n., v. ",
+        "pronounciation": "/eim/ ",
+        "meaning": "sự nhắm (bắn), mục tiêu, ý định; nhắm, tập trung, hướng vào"
+    },
+    {
+        "word": "air ",
+        "typeword": "n. ",
+        "pronounciation": "/eə/ ",
+        "meaning": "không khí, bầu không khí, không gian"
+    },
+    {
+        "word": "aircraft ",
+        "typeword": "n. ",
+        "pronounciation": "/'eəkrɑ:ft/ ",
+        "meaning": "máy bay, khí cầu"
+    },
+    {
+        "word": "airport ",
+        "typeword": "n. ",
+        "pronounciation": "/ˈɛr.ˌpɔrt/ ",
+        "meaning": "sân bay, phi trường"
+    },
+    {
+        "word": "alarm ",
+        "typeword": "n., v. ",
+        "pronounciation": "/ə'lɑ:m/ ",
+        "meaning": "báo động, báo nguy"
+    },
+    {
+        "word": "alarming ",
+        "typeword": "adj. ",
+        "pronounciation": "/ə'lɑ:miɳ/ ",
+        "meaning": "làm lo sợ, làm hốt hoảng, làm sợ hãi"
+    },
+    {
+        "word": "alarmed ",
+        "typeword": "adj. ",
+        "pronounciation": "/ə'lɑ:m/ ",
+        "meaning": "báo động"
+    },
+    {
+        "word": "alcohol ",
+        "typeword": "n. ",
+        "pronounciation": "/'ælkəhɔl/ ",
+        "meaning": "rượu cồn"
+    },
+    {
+        "word": "alcoholic ",
+        "typeword": "adj., n. ",
+        "pronounciation": "/,ælkə'hɔlik/ ",
+        "meaning": "rượu; người nghiện rượu"
+    },
+    {
+        "word": "alive ",
+        "typeword": "adj. ",
+        "pronounciation": "/ə'laiv/ ",
+        "meaning": "sống, vẫn còn sống, còn tồn tại"
+    },
+    {
+        "word": "all ",
+        "typeword": "det., pron., adv. ",
+        "pronounciation": "/ɔ:l/ ",
+        "meaning": "tất cả"
+    },
+    {
+        "word": "allow ",
+        "typeword": "v. ",
+        "pronounciation": "/ə'lau/ ",
+        "meaning": "cho phép, để cho"
+    },
+    {
+        "word": "allright",
+        "typeword": "adj.,adv.,",
+        "pronounciation": "/'ɔ:l'rait/",
+        "meaning": "tốt, ổn, khỏe mạnh; được"
+    },
+    {
+        "word": "ally",
+        "typeword": "n.,v.",
+        "pronounciation": "/'æli/",
+        "meaning": "nước đồng minh, liên minh; liên kết, liên minh, kết thông gia"
+    },
+    {
+        "word": "allied",
+        "typeword": "adj.",
+        "pronounciation": "/ə'laid/",
+        "meaning": "lien minh, đồng minh,thông gia"
+    },
+    {
+        "word": "almost",
+        "typeword": "adv.",
+        "pronounciation": "/'ɔ:lmoust/",
+        "meaning": "hầu như, gần như"
+    },
+    {
+        "word": "alone",
+        "typeword": "adj.,adv.",
+        "pronounciation": "/ə'loun/",
+        "meaning": "cô đơn,một mình"
+    },
+    {
+        "word": "along",
+        "typeword": "prep.,adv.",
+        "pronounciation": "/ə'lɔɳ/",
+        "meaning": "dọc theo, theo; theo chiều dài,suốt theo"
+    },
+    {
+        "word": "alongside",
+        "typeword": "prep.,adv.",
+        "pronounciation": "/ə'lɔɳ'said/",
+        "meaning": "sát cạnh, kế bên, dọc theo"
+    },
+    {
+        "word": "aloud",
+        "typeword": "adv.",
+        "pronounciation": "/ə'laud/",
+        "meaning": "lớn tiếng, to tiếng"
+    },
+    {
+        "word": "alphabet",
+        "typeword": "n.",
+        "pronounciation": "/'ælfəbit/",
+        "meaning": "bảng chữ cái, bước đầu, điều cơ bản"
+    },
+    {
+        "word": "alphabetical",
+        "typeword": "adj.",
+        "pronounciation": "/,æflə'betikl/",
+        "meaning": "thuộc bảng chứ cái"
+    },
+    {
+        "word": "alphabetically",
+        "typeword": "adv.",
+        "pronounciation": "/,ælfə'betikəli/",
+        "meaning": "theo thứ tự abc"
+    },
+    {
+        "word": "already",
+        "typeword": "adv.",
+        "pronounciation": "/ɔ:l'redi/",
+        "meaning": "đã, rồi, đã…rồi"
+    },
+    {
+        "word": "also",
+        "typeword": "adv.",
+        "pronounciation": "/'ɔ:lsou/",
+        "meaning": "cũng, cũng vậy, cũng thế"
+    },
+    {
+        "word": "alter",
+        "typeword": "v.",
+        "pronounciation": "/'ɔ:ltə/",
+        "meaning": "thay đổi,biến đổi,sửa đổi"
+    },
+    {
+        "word": "alternative",
+        "typeword": "n.,adj.",
+        "pronounciation": "/ɔ:l'tə:nətiv/",
+        "meaning": "sự lựa chọn; lựa chọn"
+    },
+    {
+        "word": "alternatively",
+        "typeword": "adv.",
+        "pronounciation": "",
+        "meaning": "như một sự lựa chọn"
+    },
+    {
+        "word": "although",
+        "typeword": "conj.",
+        "pronounciation": "/ɔ:l'ðou/",
+        "meaning": "mặc dù, dẫu cho"
+    },
+    {
+        "word": "altogether",
+        "typeword": "adv.",
+        "pronounciation": "/,ɔ:ltə'geðə/",
+        "meaning": "hoàn toàn, hầu như; nói chung"
+    },
+    {
+        "word": "always",
+        "typeword": "adv.",
+        "pronounciation": "/'ɔ:lwəz/",
+        "meaning": "luôn luôn"
+    },
+    {
+        "word": "amaze",
+        "typeword": "v.",
+        "pronounciation": "/ə'meiz/",
+        "meaning": "làm ngạc nhiên,làm sửng sốt"
+    },
+    {
+        "word": "amazing",
+        "typeword": "adj.",
+        "pronounciation": "/ə'meiziɳ/",
+        "meaning": "kinh ngạc,sửng sốt"
+    },
+    {
+        "word": "amazed",
+        "typeword": "adj.",
+        "pronounciation": "/ə'meiz/",
+        "meaning": "kinh ngạc,sửng sốt"
+    },
+    {
+        "word": "ambition",
+        "typeword": "n.",
+        "pronounciation": "/æm'biʃn/",
+        "meaning": "hoài bão, khát vọng"
+    },
+    {
+        "word": "ambulance",
+        "typeword": "n.",
+        "pronounciation": "/'æmbjuləns/",
+        "meaning": "xe cứu thương, xe cấp cứu"
+    },
+    {
+        "word": "among",
+        "typeword": "prep.",
+        "pronounciation": "/ə'mʌɳ/",
+        "meaning": "giữa, ở giữa"
+    },
+    {
+        "word": "amount",
+        "typeword": "n.,v.",
+        "pronounciation": "/ə'maunt/",
+        "meaning": "số lượng, số nhiều; lên tới(money)"
+    },
+    {
+        "word": "amuse",
+        "typeword": "v.",
+        "pronounciation": "/ə'mju:z/",
+        "meaning": "làm cho vui, thích, làm buồn cười"
+    },
+    {
+        "word": "amusing",
+        "typeword": "adj.",
+        "pronounciation": "/ə'mju:ziɳ/",
+        "meaning": "vui thích"
+    },
+    {
+        "word": "amused",
+        "typeword": "adj.",
+        "pronounciation": "/ə'mju:zd/",
+        "meaning": "vui  thích"
+    },
+    {
+        "word": "analyse",
+        "typeword": "v.",
+        "pronounciation": "/'ænəlaiz/",
+        "meaning": "phân tích"
+    },
+    {
+        "word": "analysis",
+        "typeword": "n.",
+        "pronounciation": "/ə'næləsis/",
+        "meaning": "sự phân tích"
+    },
+    {
+        "word": "ancient",
+        "typeword": "adj.",
+        "pronounciation": "/'einʃənt/",
+        "meaning": "xưa, cổ"
+    },
+    {
+        "word": "and",
+        "typeword": "conj.",
+        "pronounciation": "/ænd,ənd,ən/",
+        "meaning": "và"
+    },
+    {
+        "word": "anger",
+        "typeword": "n.",
+        "pronounciation": "/'æɳgə/",
+        "meaning": "sự tức giận, sự giận dữ"
+    },
+    {
+        "word": "angle",
+        "typeword": "n.",
+        "pronounciation": "/'æɳgl/",
+        "meaning": "góc"
+    },
+    {
+        "word": "angry",
+        "typeword": "adj.",
+        "pronounciation": "/'æɳgri/",
+        "meaning": "giận, tức giận"
+    },
+    {
+        "word": "angrily",
+        "typeword": "adv.",
+        "pronounciation": "/'æɳgrili/",
+        "meaning": "tức giận, giận dữ"
+    },
+    {
+        "word": "animal",
+        "typeword": "n.",
+        "pronounciation": "/'æniməl/",
+        "meaning": "động vật, thú vật"
+    },
+    {
+        "word": "ankle",
+        "typeword": "n.",
+        "pronounciation": "/'æɳkl/",
+        "meaning": "mắt cá chân"
+    },
+    {
+        "word": "anniversary",
+        "typeword": "n.",
+        "pronounciation": "/,æni'və:səri/",
+        "meaning": "ngày, lễ kỉ niệm"
+    },
+    {
+        "word": "announce",
+        "typeword": "v.",
+        "pronounciation": "/ə'nauns/",
+        "meaning": "báo, thông báo"
+    },
+    {
+        "word": "annoy",
+        "typeword": "v.",
+        "pronounciation": "/ə'nɔi/",
+        "meaning": "chọc tức,làm bực mình;làm phiền, quẫy nhiễu"
+    },
+    {
+        "word": "annoying",
+        "typeword": "adj.",
+        "pronounciation": "/ə'nɔiiɳ/",
+        "meaning": "chọc tức, làm bực mình; làm phiền,quẫy nhiễu"
+    },
+    {
+        "word": "annoyed",
+        "typeword": "adj.",
+        "pronounciation": "/ə'nɔid/",
+        "meaning": "bị khó chịu, bực mình, bị quấy rầy"
+    },
+    {
+        "word": "annual",
+        "typeword": "adj.",
+        "pronounciation": "/'ænjuəl/",
+        "meaning": "hàng năm,từng năm"
+    },
+    {
+        "word": "annually",
+        "typeword": "adv.",
+        "pronounciation": "/'ænjuəli/",
+        "meaning": "hàng năm, từng năm"
+    },
+    {
+        "word": "another",
+        "typeword": "det.,pron.",
+        "pronounciation": "/ə'nʌðə/",
+        "meaning": "khác"
+    },
+    {
+        "word": "answer",
+        "typeword": "n.,v.",
+        "pronounciation": "/'ɑ:nsə/",
+        "meaning": "sự trả lời;trả lời"
+    },
+    {
+        "word": "anticipate",
+        "typeword": "v.",
+        "pronounciation": "/æn'tisipeit/",
+        "meaning": "thấy trước,chặn trước,lường trước"
+    },
+    {
+        "word": "anxiety",
+        "typeword": "n.",
+        "pronounciation": "/æɳ'zaiəti/",
+        "meaning": "mối lo âu,sự lo lắng"
+    },
+    {
+        "word": "anxious",
+        "typeword": "adj.",
+        "pronounciation": "/'æɳkʃəs/",
+        "meaning": "lo âu, lo lắng, băn khoăn"
+    },
+    {
+        "word": "anxiously",
+        "typeword": "adv.",
+        "pronounciation": "/'æɳkʃəsli/",
+        "meaning": "lo âu, lo lắng, băn khoăn"
+    },
+    {
+        "word": "any",
+        "typeword": "det.,pron.,adv.",
+        "pronounciation": "",
+        "meaning": "một người, vật nào đó; bất cứ;một chút nào, tí nào"
+    },
+    {
+        "word": "anyone",
+        "typeword": "pron.",
+        "pronounciation": "/'eniwʌn/",
+        "meaning": "người nào, bất cứ ai"
+    },
+    {
+        "word": "anything",
+        "typeword": "pron.",
+        "pronounciation": "/'eniθiɳ/",
+        "meaning": "việc gì, vật gì; bất cứ việc gì, vật gì"
+    },
+    {
+        "word": "anyway",
+        "typeword": "adv.",
+        "pronounciation": "/'eniwei/",
+        "meaning": "thế nào cũng được, dù sao chăng nữa"
+    },
+    {
+        "word": "anywhere",
+        "typeword": "adv.",
+        "pronounciation": "/'eniweə/",
+        "meaning": "bất cứ chỗ nào, bất cứ nơi đâu"
+    },
+    {
+        "word": "apart",
+        "typeword": "adv.",
+        "pronounciation": "/ə'pɑ:t/",
+        "meaning": "về một bên, qua một bên"
+    },
+    {
+        "word": "apartfrom",
+        "typeword": "prep.",
+        "pronounciation": "",
+        "meaning": "ngoài…ra"
+    },
+    {
+        "word": "apartment",
+        "typeword": "n.",
+        "pronounciation": "/ə'pɑ:tmənt/",
+        "meaning": "căn phòng, căn buồng"
+    },
+    {
+        "word": "apologize",
+        "typeword": "v.",
+        "pronounciation": "/ə'pɔlədʤaiz/",
+        "meaning": "xin lỗi, tạ lỗi"
+    },
+    {
+        "word": "apparent",
+        "typeword": "adj.",
+        "pronounciation": "/ə'pærənt/",
+        "meaning": "rõ ràng, rành mạch; bề ngoài, có vẻ"
+    },
+    {
+        "word": "apparently",
+        "typeword": "adv.",
+        "pronounciation": "",
+        "meaning": "nhìn bên ngoài, hình như"
+    },
+    {
+        "word": "appeal",
+        "typeword": "n.,v.",
+        "pronounciation": "/ə'pi:l/",
+        "meaning": "sự kêu gọi, lời kêu gọi; kêu gọi, cầu khẩn"
+    },
+    {
+        "word": "appear",
+        "typeword": "v.",
+        "pronounciation": "/ə'piə/",
+        "meaning": "xuất hiện, hiện ra, trình diện"
+    },
+    {
+        "word": "appearance",
+        "typeword": "n.",
+        "pronounciation": "/ə'piərəns/",
+        "meaning": "sự xuất hiện, sự trình diện"
+    },
+    {
+        "word": "apple",
+        "typeword": "n.",
+        "pronounciation": "/'æpl/",
+        "meaning": "quả táo"
+    },
+    {
+        "word": "application",
+        "typeword": "n.",
+        "pronounciation": "/,æpli'keiʃn/",
+        "meaning": "sự gắn vào, vật gắn vào; sự chuyên cần, chuyên tâm"
+    },
+    {
+        "word": "apply",
+        "typeword": "v.",
+        "pronounciation": "/ə'plai/",
+        "meaning": "gắn vào, ghép vào, áp dụng vào"
+    },
+    {
+        "word": "appoint",
+        "typeword": "v.",
+        "pronounciation": "/ə'pɔint/",
+        "meaning": "bổ nhiệm, chỉ định, chọn"
+    },
+    {
+        "word": "appointment",
+        "typeword": "n.",
+        "pronounciation": "/ə'pɔintmənt/",
+        "meaning": "sự bổ nhiệm, người được bổ nhiệm"
+    },
+    {
+        "word": "appreciate",
+        "typeword": "v.",
+        "pronounciation": "/ə'pri:ʃieit/",
+        "meaning": "thấy rõ; nhận thức"
+    },
+    {
+        "word": "approach",
+        "typeword": "v.,n.",
+        "pronounciation": "/ə'proutʃ/",
+        "meaning": "đến gần, lại gần; sự đến gần, sự lại gần"
+    },
+    {
+        "word": "appropriate",
+        "typeword": "adj.(+to,for)",
+        "pronounciation": "/ə'proupriit/",
+        "meaning": "thích hợp, thích đáng"
+    },
+    {
+        "word": "approval",
+        "typeword": "n.",
+        "pronounciation": "/ə'pru:vəl/",
+        "meaning": "sự tán thành, đồng ý, sự chấp thuận"
+    },
+    {
+        "word": "approve(of)",
+        "typeword": "v.",
+        "pronounciation": "/ə'pru:v/",
+        "meaning": "tán thành, đồng ý, chấp thuận"
+    },
+    {
+        "word": "approving",
+        "typeword": "adj.",
+        "pronounciation": "/ə'pru:viɳ/",
+        "meaning": "tán thành, đồng ý, chấp thuận"
+    },
+    {
+        "word": "approximate",
+        "typeword": "adj.",
+        "pronounciation": "/ə'prɔksimit/",
+        "meaning": "giống với, giống hệt với"
+    },
+    {
+        "word": "approximately",
+        "typeword": "adv.",
+        "pronounciation": "/ə'prɔksimitli/",
+        "meaning": "khoảng chừng, độ chừng"
+    },
+    {
+        "word": "April",
+        "typeword": "n.(abbr.Apr.)",
+        "pronounciation": "/'eiprəl/",
+        "meaning": "tháng Tư"
+    },
+    {
+        "word": "area",
+        "typeword": "n.",
+        "pronounciation": "/'eəriə/",
+        "meaning": "diện tích, bề mặt"
+    },
+    {
+        "word": "argue",
+        "typeword": "v.",
+        "pronounciation": "/'ɑ:gju:/",
+        "meaning": "chứng tỏ, chỉ rõ"
+    },
+    {
+        "word": "argument",
+        "typeword": "n.",
+        "pronounciation": "/'ɑ:gjumənt/",
+        "meaning": "lý lẽ"
+    },
+    {
+        "word": "arise",
+        "typeword": "v.",
+        "pronounciation": "/ə'raiz/",
+        "meaning": "xuất hiện, nảy ra, nảy sinh ra"
+    },
+    {
+        "word": "arm",
+        "typeword": "n.,v.",
+        "pronounciation": "/ɑ:m/",
+        "meaning": "cánh tay; vũ trang, trang bị(vũ khí)"
+    },
+    {
+        "word": "arms",
+        "typeword": "n.",
+        "pronounciation": "",
+        "meaning": "vũ khí,binh giới,binh khí"
+    },
+    {
+        "word": "armed",
+        "typeword": "adj.",
+        "pronounciation": "/ɑ:md/",
+        "meaning": "vũ trang"
+    },
+    {
+        "word": "army",
+        "typeword": "n.",
+        "pronounciation": "/'ɑ:mi/",
+        "meaning": "quân đội"
+    },
+    {
+        "word": "around",
+        "typeword": "adv.,prep.",
+        "pronounciation": "/ə'raund/",
+        "meaning": "xung quanh, vòng quanh"
+    },
+    {
+        "word": "arrange",
+        "typeword": "v.",
+        "pronounciation": "/ə'reindʤ/",
+        "meaning": "sắp xếp, sắp đặt, sửa soạn"
+    },
+    {
+        "word": "arrangement",
+        "typeword": "n.",
+        "pronounciation": "/ə'reindʤmənt/",
+        "meaning": "sự sắp xếp, sắp đặt, sự sửa soạn"
+    },
+    {
+        "word": "arrest",
+        "typeword": "v.,n.",
+        "pronounciation": "/ə'rest/",
+        "meaning": "bắt giữ, sự bắt giữ"
+    },
+    {
+        "word": "arrival",
+        "typeword": "n.",
+        "pronounciation": "/ə'raivəl/",
+        "meaning": "sự đến, sự tới nơi"
+    },
+    {
+        "word": "arrive",
+        "typeword": "v.(+at,in)",
+        "pronounciation": "/ə'raiv/",
+        "meaning": "đến, tới nơi"
+    },
+    {
+        "word": "arrow",
+        "typeword": "n.",
+        "pronounciation": "/'ærou/",
+        "meaning": "tên, mũi tên"
+    },
+    {
+        "word": "art",
+        "typeword": "n.",
+        "pronounciation": "/ɑ:t/",
+        "meaning": "nghệ thuật, mỹ thuật"
+    },
+    {
+        "word": "article",
+        "typeword": "n.",
+        "pronounciation": "/'ɑ:tikl/",
+        "meaning": "bài báo, đềmục"
+    },
+    {
+        "word": "artificial",
+        "typeword": "adj.",
+        "pronounciation": "/,ɑ:ti'fiʃəl/",
+        "meaning": "nhân tạo"
+    },
+    {
+        "word": "artificially",
+        "typeword": "adv.",
+        "pronounciation": "/,ɑ:ti'fiʃəli/",
+        "meaning": "nhân tạo"
+    },
+    {
+        "word": "artist",
+        "typeword": "n.",
+        "pronounciation": "/'ɑ:tist/",
+        "meaning": "nghệ sĩ"
+    },
+    {
+        "word": "artistic",
+        "typeword": "adj.",
+        "pronounciation": "/ɑ:'tistik/",
+        "meaning": "thuộc nghệ thuật, thuộc mỹ thuật"
+    },
+    {
+        "word": "as",
+        "typeword": "prep.,adv.,conj.",
+        "pronounciation": "/æz,əz/",
+        "meaning": "như (as you know…)"
+    },
+    {
+        "word": "ashamed",
+        "typeword": "adj.",
+        "pronounciation": "/ə'ʃeimd/",
+        "meaning": "ngượng, xấu hổ"
+    },
+    {
+        "word": "aside",
+        "typeword": "adv.",
+        "pronounciation": "/ə'said/",
+        "meaning": "về một bên, sang một bên"
+    },
+    {
+        "word": "ask",
+        "typeword": "v.",
+        "pronounciation": "/ɑ:sk/",
+        "meaning": "hỏi"
+    },
+    {
+        "word": "asleep",
+        "typeword": "adj.",
+        "pronounciation": "/ə'sli:p/",
+        "meaning": "ngủ, đang ngủ"
+    },
+    {
+        "word": "aspect",
+        "typeword": "n.",
+        "pronounciation": "/'æspekt/",
+        "meaning": "vẻ bề ngoài, diện mạo"
+    },
+    {
+        "word": "assist",
+        "typeword": "v.",
+        "pronounciation": "/ə'sist/",
+        "meaning": "giúp, giúp đỡ; tham dự, có mặt"
+    },
+    {
+        "word": "assistance",
+        "typeword": "n.",
+        "pronounciation": "/ə'sistəns/",
+        "meaning": "sự giúp đỡ"
+    },
+    {
+        "word": "assistant",
+        "typeword": "n.,adj.",
+        "pronounciation": "/ə'sistənt/",
+        "meaning": "người giúp đỡ, người phụ tá; giúp đỡ, phụ tá"
+    },
+    {
+        "word": "associate",
+        "typeword": "v.",
+        "pronounciation": "/ə'souʃiit/",
+        "meaning": "kết giao, liên kết, kết hợp, cho cộng tác"
+    },
+    {
+        "word": "association",
+        "typeword": "n.",
+        "pronounciation": "/ə,sousi'eiʃn/",
+        "meaning": "sự kết hợp, sự liên kết"
+    },
+    {
+        "word": "assume",
+        "typeword": "v.",
+        "pronounciation": "/ə'sju:m/",
+        "meaning": "mang, khoác, có, lấy(cái vẻ, tính chất…)"
+    },
+    {
+        "word": "assure",
+        "typeword": "v.",
+        "pronounciation": "/ə'ʃuə/",
+        "meaning": "đảm bảo,cam đoan"
+    },
+    {
+        "word": "atmosphere",
+        "typeword": "n.",
+        "pronounciation": "/'ætməsfiə/",
+        "meaning": "khí quyển"
+    },
+    {
+        "word": "atom",
+        "typeword": "n.",
+        "pronounciation": "/'ætəm/",
+        "meaning": "nguyên tử"
+    },
+    {
+        "word": "attach",
+        "typeword": "v.",
+        "pronounciation": "/ə'tætʃ/",
+        "meaning": "gắn, dán, trói, buộc"
+    },
+    {
+        "word": "attached",
+        "typeword": "adj.",
+        "pronounciation": "",
+        "meaning": "gắn bó"
+    },
+    {
+        "word": "attack",
+        "typeword": "n.,v.",
+        "pronounciation": "/ə'tæk/",
+        "meaning": "sự tấn công, sự công kích; tấn công, công kích"
+    },
+    {
+        "word": "attempt",
+        "typeword": "n.,v.",
+        "pronounciation": "/ə'tempt/",
+        "meaning": "sự cố gắng, sự thử; cố gắng, thử"
+    },
+    {
+        "word": "attempted",
+        "typeword": "adj.",
+        "pronounciation": "/ə'temptid/",
+        "meaning": "cố gắng, thử"
+    },
+    {
+        "word": "attend",
+        "typeword": "v.",
+        "pronounciation": "/ə'tend/",
+        "meaning": "dự, có mặt"
+    },
+    {
+        "word": "attention",
+        "typeword": "n.",
+        "pronounciation": "/ə'tenʃn/",
+        "meaning": "sự chú ý"
+    },
+    {
+        "word": "payattention(to)",
+        "typeword": "",
+        "pronounciation": "",
+        "meaning": "chú ý tới"
+    },
+    {
+        "word": "attitude",
+        "typeword": "n.",
+        "pronounciation": "/'ætitju:d/",
+        "meaning": "thái độ, quan điểm"
+    },
+    {
+        "word": "attorney",
+        "typeword": "n.",
+        "pronounciation": "/ə'tə:ni/",
+        "meaning": "người được ủy quyền"
+    },
+    {
+        "word": "attract",
+        "typeword": "v.",
+        "pronounciation": "/ə'trækt/",
+        "meaning": "hút; thu hút, hấp dẫn"
+    },
+    {
+        "word": "attraction",
+        "typeword": "n.",
+        "pronounciation": "/ə'trækʃn/",
+        "meaning": "sự hút, sức hút"
+    },
+    {
+        "word": "attractive",
+        "typeword": "adj.",
+        "pronounciation": "/ə'træktiv/",
+        "meaning": "hút,thu hút, có duyên, lôi cuốn"
+    },
+    {
+        "word": "audience",
+        "typeword": "n.",
+        "pronounciation": "/'ɔ:djəns/",
+        "meaning": "thính, khán giả"
+    },
+    {
+        "word": "August",
+        "typeword": "n.(abbr.Aug.)",
+        "pronounciation": "/'ɔ:gəst-ɔ:'gʌst/",
+        "meaning": "tháng Tám"
+    },
+    {
+        "word": "aunt",
+        "typeword": "n.",
+        "pronounciation": "/ɑ:nt/",
+        "meaning": "cô, dì"
+    },
+    {
+        "word": "author",
+        "typeword": "n.",
+        "pronounciation": "/'ɔ:θə/",
+        "meaning": "tác giả"
+    },
+    {
+        "word": "authority",
+        "typeword": "n.",
+        "pronounciation": "/ɔ:'θɔriti/",
+        "meaning": "uy quyền, quyền lực"
+    },
+    {
+        "word": "automatic",
+        "typeword": "adj.",
+        "pronounciation": "/,ɔ:tə'mætik/",
+        "meaning": "tự động"
+    },
+    {
+        "word": "automatically",
+        "typeword": "adv.",
+        "pronounciation": "",
+        "meaning": "một cách tự động"
+    },
+    {
+        "word": "autumn",
+        "typeword": "n.",
+        "pronounciation": "/'ɔ:təm/",
+        "meaning": "mùa thu (US: mùa thu là: fall)"
+    },
+    {
+        "word": "available",
+        "typeword": "adj.",
+        "pronounciation": "/ə'veiləbl/",
+        "meaning": "có thể dùng được, có giá trị, hiệu lực"
+    },
+    {
+        "word": "average",
+        "typeword": "adj.,n.",
+        "pronounciation": "/'ævəridʤ/",
+        "meaning": "trung bình, số trung bình, mức trung bình"
+    },
+    {
+        "word": "avoid",
+        "typeword": "v.",
+        "pronounciation": "/ə'vɔid/",
+        "meaning": "tránh, tránh xa"
+    },
+    {
+        "word": "awake",
+        "typeword": "adj.",
+        "pronounciation": "/ə'weik/",
+        "meaning": "đánh thức, làm thức dậy"
+    },
+    {
+        "word": "award",
+        "typeword": "n.,v.",
+        "pronounciation": "/ə'wɔ:d/",
+        "meaning": "phần thưởng; tặng, thưởng"
+    },
+    {
+        "word": "aware",
+        "typeword": "adj.",
+        "pronounciation": "/ə'weə/",
+        "meaning": "biết, nhận thức, nhận thức thấy"
+    },
+    {
+        "word": "away",
+        "typeword": "adv.",
+        "pronounciation": "/ə'wei/",
+        "meaning": "xa, xa cách, rời xa, đi xa"
+    },
+    {
+        "word": "awful",
+        "typeword": "adj.",
+        "pronounciation": "/'ɔ:ful/",
+        "meaning": "oai nghiêm, dễ sợ"
+    },
+    {
+        "word": "awfully",
+        "typeword": "adv.",
+        "pronounciation": "",
+        "meaning": "tàn khốc, khủng khiếp"
+    },
+    {
+        "word": "awkward",
+        "typeword": "adj.",
+        "pronounciation": "/'ɔ:kwəd/",
+        "meaning": "vụng về, lung túng"
+    },
+    {
+        "word": "awkwardly",
+        "typeword": "adv.",
+        "pronounciation": "",
+        "meaning": "vụng về,lung túng"
+    },
+    {
+        "word": "back",
+        "typeword": "n.,adj.,adv.,v.",
+        "pronounciation": "/bæk/",
+        "meaning": "lưng, về phía sau, trở lại"
+    },
+    {
+        "word": "background",
+        "typeword": "n.",
+        "pronounciation": "/'bækgraund/",
+        "meaning": "phía sau; nền"
+    },
+    {
+        "word": "backwards",
+        "typeword": "adv.",
+        "pronounciation": "/'bækwədz/",
+        "meaning": "về phía sau, lùi lại"
+    },
+    {
+        "word": "backward",
+        "typeword": "adj.",
+        "pronounciation": "/'bækwəd/",
+        "meaning": "về phía sau, lùi lại"
+    },
+    {
+        "word": "bacteria",
+        "typeword": "n.",
+        "pronounciation": "/bæk'tiəriəm/",
+        "meaning": "vi khuẩn"
+    },
+    {
+        "word": "bad",
+        "typeword": "adj.",
+        "pronounciation": "/bæd/",
+        "meaning": "xấu, tồi"
+    },
+    {
+        "word": "gobad",
+        "typeword": "",
+        "pronounciation": "",
+        "meaning": "bẩn thỉu, thối, hỏng"
+    },
+    {
+        "word": "badly",
+        "typeword": "adv.",
+        "pronounciation": "/'bædli/",
+        "meaning": "xấu, tồi"
+    },
+    {
+        "word": "bad-tempered",
+        "typeword": "adj.",
+        "pronounciation": "/'bæd'tempəd/",
+        "meaning": "xấu tính ,dễ nổi cáu"
+    },
+    {
+        "word": "bag",
+        "typeword": "n.",
+        "pronounciation": "/bæg/",
+        "meaning": "bao, túi, cặp xách"
+    },
+    {
+        "word": "baggage",
+        "typeword": "n.",
+        "pronounciation": "/'bædidʤ/",
+        "meaning": "hành lý"
+    },
+    {
+        "word": "bake",
+        "typeword": "v.",
+        "pronounciation": "/beik/",
+        "meaning": "nung, nướng bằng lò"
+    },
+    {
+        "word": "balance",
+        "typeword": "n.,v.",
+        "pronounciation": "/'bæləns/",
+        "meaning": "cái cân; làm cho cân bằng, tương xứng"
+    },
+    {
+        "word": "ball",
+        "typeword": "n.",
+        "pronounciation": "/bɔ:l/",
+        "meaning": "quả bóng"
+    },
+    {
+        "word": "ban",
+        "typeword": "v.,n.",
+        "pronounciation": "/bæn/",
+        "meaning": "cấm, cấm chỉ; sự cấm"
+    },
+    {
+        "word": "band",
+        "typeword": "n.",
+        "pronounciation": "/bænd/",
+        "meaning": "băng, đai, nẹp"
+    },
+    {
+        "word": "bandage",
+        "typeword": "n.,v.",
+        "pronounciation": "/'bændidʤ/",
+        "meaning": "dải băng; băng bó"
+    },
+    {
+        "word": "bank",
+        "typeword": "n.",
+        "pronounciation": "/bæɳk/",
+        "meaning": "bờ(sông…), đê"
+    },
+    {
+        "word": "bar",
+        "typeword": "n.",
+        "pronounciation": "/bɑ:/",
+        "meaning": "quán bán rượu"
+    },
+    {
+        "word": "bargain",
+        "typeword": "n.",
+        "pronounciation": "/'bɑ:gin/",
+        "meaning": "sự mặc cả, sự giao kèo mua bán"
+    },
+    {
+        "word": "barrier",
+        "typeword": "n.",
+        "pronounciation": "/bæriə/",
+        "meaning": "đặt chướng ngại vật"
+    },
+    {
+        "word": "base",
+        "typeword": "n.,v.",
+        "pronounciation": "/beis/",
+        "meaning": "cơ sở, cơ bản, nền móng; đặt tên, đặt cơ sở trên cái gì"
+    },
+    {
+        "word": "basic",
+        "typeword": "adj.",
+        "pronounciation": "/'beisik/",
+        "meaning": "cơ bản, cơ sở"
+    },
+    {
+        "word": "basically",
+        "typeword": "adv.",
+        "pronounciation": "/'beisikəli/",
+        "meaning": "cơ bản, về cơ bản"
+    },
+    {
+        "word": "basis",
+        "typeword": "n.",
+        "pronounciation": "/'beisis/",
+        "meaning": "nền tảng, cơ sở"
+    },
+    {
+        "word": "bath",
+        "typeword": "n.",
+        "pronounciation": "/bɑ:θ/",
+        "meaning": "sự tắm"
+    },
+    {
+        "word": "bathroom",
+        "typeword": "n.",
+        "pronounciation": "",
+        "meaning": "buồng tắm, nhà vệ sinh"
+    },
+    {
+        "word": "battery",
+        "typeword": "n.",
+        "pronounciation": "/'bætəri/",
+        "meaning": "pin, ắc-quy"
+    },
+    {
+        "word": "battle",
+        "typeword": "n.",
+        "pronounciation": "/'bætl/",
+        "meaning": "trận đánh, chiến thuật"
+    },
+    {
+        "word": "bay",
+        "typeword": "n.",
+        "pronounciation": "/bei/",
+        "meaning": "gian(nhà), nhịp(cầu), chuồng(ngựa); bay, vòngnguyệtquế"
+    },
+    {
+        "word": "beach",
+        "typeword": "n.",
+        "pronounciation": "/bi:tʃ/",
+        "meaning": "bãi biển"
+    },
+    {
+        "word": "beak",
+        "typeword": "n.",
+        "pronounciation": "/bi:k/",
+        "meaning": "mỏ chim"
+    },
+    {
+        "word": "bear",
+        "typeword": "v.",
+        "pronounciation": "/beə/",
+        "meaning": "mang, cầm, vác, đeo, ôm"
+    },
+    {
+        "word": "beard",
+        "typeword": "n.",
+        "pronounciation": "/biəd/",
+        "meaning": "râu"
+    },
+    {
+        "word": "beat",
+        "typeword": "n.,v.",
+        "pronounciation": "/bi:t/",
+        "meaning": "tiếng đập, sự đập; đánh đập, đấm"
+    },
+    {
+        "word": "beautiful",
+        "typeword": "adj.",
+        "pronounciation": "/'bju:təful/",
+        "meaning": "đẹp"
+    },
+    {
+        "word": "beautifully",
+        "typeword": "adv.",
+        "pronounciation": "/'bju:təfuli/",
+        "meaning": "tốt đẹp, đáng hài lòng"
+    },
+    {
+        "word": "beauty",
+        "typeword": "n.",
+        "pronounciation": "/'bju:ti/",
+        "meaning": "vẻ đẹp, cái đẹp; người đẹp"
+    },
+    {
+        "word": "because",
+        "typeword": "conj.",
+        "pronounciation": "/bi'kɔz/",
+        "meaning": "bởi vì,vì"
+    },
+    {
+        "word": "becauseof",
+        "typeword": "prep.",
+        "pronounciation": "",
+        "meaning": "vì,do, bởi"
+    },
+    {
+        "word": "become",
+        "typeword": "v.",
+        "pronounciation": "/bi'kʌm/",
+        "meaning": "trở thành, trở nên"
+    },
+    {
+        "word": "bed",
+        "typeword": "n.",
+        "pronounciation": "/bed/",
+        "meaning": "cái giường"
+    },
+    {
+        "word": "bedroom",
+        "typeword": "n.",
+        "pronounciation": "/'bedrum/",
+        "meaning": "phòng ngủ"
+    },
+    {
+        "word": "beef",
+        "typeword": "n.",
+        "pronounciation": "/bi:f/",
+        "meaning": "thịt bò"
+    },
+    {
+        "word": "beer",
+        "typeword": "n.",
+        "pronounciation": "/bi:ə/",
+        "meaning": "rượu bia"
+    },
+    {
+        "word": "before",
+        "typeword": "prep.,conj.,adv.",
+        "pronounciation": "/bi'fɔ:/",
+        "meaning": "trước, đằng trước"
+    },
+    {
+        "word": "begin",
+        "typeword": "v.",
+        "pronounciation": "/bi'gin/",
+        "meaning": "bắt đầu, khởi đầu"
+    },
+    {
+        "word": "beginning",
+        "typeword": "n.",
+        "pronounciation": "/bi'giniɳ/",
+        "meaning": "phần đầu, lúc bắt đầu, lúc khởi đầu"
+    },
+    {
+        "word": "behalf",
+        "typeword": "n.",
+        "pronounciation": "/bi:hɑ:f/",
+        "meaning": "sự thay mặt"
+    },
+    {
+        "word": "behave",
+        "typeword": "v.",
+        "pronounciation": "/bi'heiv/",
+        "meaning": "đối xử, ăn ở, cư xử"
+    },
+    {
+        "word": "behind",
+        "typeword": "prep.,adv.",
+        "pronounciation": "/bi'haind/",
+        "meaning": "sau, ở đằng sau"
+    },
+    {
+        "word": "belief",
+        "typeword": "n.",
+        "pronounciation": "/bi'li:f/",
+        "meaning": "lòng tin, đức tin, sự tin tưởng"
+    },
+    {
+        "word": "believe",
+        "typeword": "v.",
+        "pronounciation": "/bi'li:v/",
+        "meaning": "tin, tin tưởng"
+    },
+    {
+        "word": "bell",
+        "typeword": "n.",
+        "pronounciation": "/bel/",
+        "meaning": "cái chuông, tiếng chuông"
+    },
+    {
+        "word": "belong",
+        "typeword": "v.",
+        "pronounciation": "/bi'lɔɳ/",
+        "meaning": "thuộc về, của, thuộc quyền sở hữu"
+    },
+    {
+        "word": "below",
+        "typeword": "prep.,adv.",
+        "pronounciation": "/bi'lou/",
+        "meaning": "ở dưới, dưới thấp, phía dưới"
+    },
+    {
+        "word": "belt",
+        "typeword": "n.",
+        "pronounciation": "/belt/",
+        "meaning": "dây lưng, thắt lưng"
+    },
+    {
+        "word": "bend",
+        "typeword": "v.,n.",
+        "pronounciation": "/bentʃ/",
+        "meaning": "chỗ rẽ, chỗ uốn; khuỷu tay; cúi xuống, uốn cong"
+    },
+    {
+        "word": "bent",
+        "typeword": "adj.",
+        "pronounciation": "/bent/",
+        "meaning": "khiếu, sở thích, khuynh hướng"
+    },
+    {
+        "word": "beneath",
+        "typeword": "prep.,adv.",
+        "pronounciation": "/bi'ni:θ/",
+        "meaning": "ở dưới, dưới thấp"
+    },
+    {
+        "word": "benefit",
+        "typeword": "n.,v.",
+        "pronounciation": "/'benifit/",
+        "meaning": "lợi, lợi ích; giúp ích, làm lợi cho"
+    },
+    {
+        "word": "beside",
+        "typeword": "prep.",
+        "pronounciation": "/bi'said/",
+        "meaning": "bên cạnh, so với"
+    },
+    {
+        "word": "bet",
+        "typeword": "v.,n.",
+        "pronounciation": "/bet/",
+        "meaning": "đánh cuộc, cá cược; sự đánh cuộc"
+    },
+    {
+        "word": "betting",
+        "typeword": "n.",
+        "pronounciation": "/beting/",
+        "meaning": "sự đánh cuộc"
+    },
+    {
+        "word": "between",
+        "typeword": "prep.,adv.",
+        "pronounciation": "/bi'twi:n/",
+        "meaning": "giữa, ở giữa"
+    },
+    {
+        "word": "beyond",
+        "typeword": "prep.,adv.",
+        "pronounciation": "/bi'jɔnd/",
+        "meaning": "ở xa, phía bên kia"
+    },
+    {
+        "word": "bicycle",
+        "typeword": "n.",
+        "pronounciation": "/'baisikl/",
+        "meaning": "xe đạp"
+    },
+    {
+        "word": "bid",
+        "typeword": "v.,n.",
+        "pronounciation": "/bid/",
+        "meaning": "đặt giá, trả giá; sự đặt giá,sự trả giá"
+    },
+    {
+        "word": "big",
+        "typeword": "adj.",
+        "pronounciation": "/big/",
+        "meaning": "to, lớn"
+    },
+    {
+        "word": "bill",
+        "typeword": "n.",
+        "pronounciation": "/bil/",
+        "meaning": "hóa đơn, giấy bạc"
+    },
+    {
+        "word": "bin",
+        "typeword": "n.(BrE)",
+        "pronounciation": "/bin/",
+        "meaning": "thùng, thùng đựng rượu"
+    },
+    {
+        "word": "biology",
+        "typeword": "n.",
+        "pronounciation": "/bai'ɔlədʤi/",
+        "meaning": "sinh vật học"
+    },
+    {
+        "word": "bird",
+        "typeword": "n.",
+        "pronounciation": "/bə:d/",
+        "meaning": "chim"
+    },
+    {
+        "word": "birth",
+        "typeword": "n.",
+        "pronounciation": "/bə:θ/",
+        "meaning": "sự ra đời, sự sinh đẻ"
+    },
+    {
+        "word": "birthday",
+        "typeword": "n.",
+        "pronounciation": "/'bə:θdei/",
+        "meaning": "ngày sinh, sinh nhật"
+    },
+    {
+        "word": "biscuit",
+        "typeword": "n.(BrE)",
+        "pronounciation": "/'biskit/",
+        "meaning": "bánh quy"
+    },
+    {
+        "word": "bit",
+        "typeword": "n.(especiallyBrE)",
+        "pronounciation": "/bit/",
+        "meaning": "miếng, mảnh"
+    },
+    {
+        "word": "bite",
+        "typeword": "v.,n.",
+        "pronounciation": "/bait/",
+        "meaning": "cắn, ngoạm; sự cắn, sự ngoạm"
+    },
+    {
+        "word": "bitter",
+        "typeword": "adj.",
+        "pronounciation": "/'bitə/",
+        "meaning": "đắng; đắng cay, chua xót"
+    },
+    {
+        "word": "bitterly",
+        "typeword": "adv.",
+        "pronounciation": "/'bitəli/",
+        "meaning": "đắng, đắng cay, chua xót"
+    },
+    {
+        "word": "black",
+        "typeword": "adj.,n.",
+        "pronounciation": "/blæk/",
+        "meaning": "đen; màu đen"
+    },
+    {
+        "word": "blade",
+        "typeword": "n.",
+        "pronounciation": "/bleid/",
+        "meaning": "lưỡi(dao,kiếm); lá(cỏ,cây); mái(chèo); cánh(chongchóng)"
+    },
+    {
+        "word": "blame",
+        "typeword": "v.,n.",
+        "pronounciation": "/bleim/",
+        "meaning": "khiển trách, mắng trách; sự khiển trách, sự mắng trách"
+    },
+    {
+        "word": "blank",
+        "typeword": "adj.,n.",
+        "pronounciation": "/blæɳk/",
+        "meaning": "trống, để trắng; sự trống rỗng"
+    },
+    {
+        "word": "blankly",
+        "typeword": "adv.",
+        "pronounciation": "/'blæɳkli/",
+        "meaning": "ngây ra, không có thần"
+    },
+    {
+        "word": "blind",
+        "typeword": "adj.",
+        "pronounciation": "/blaind/",
+        "meaning": "đui, mù"
+    },
+    {
+        "word": "block",
+        "typeword": "n.,v.",
+        "pronounciation": "/blɔk/",
+        "meaning": "khối, tảng(đá); làm ngăn cản, ngăn chặn"
+    },
+    {
+        "word": "blonde",
+        "typeword": "adj.,n.",
+        "pronounciation": "/blɔnd/",
+        "meaning": "hoe vàng, mái tóc hoe vàng"
+    },
+    {
+        "word": "blood",
+        "typeword": "n.",
+        "pronounciation": "/blʌd/",
+        "meaning": "máu, huyết; sự tàn sát, chém giết"
+    },
+    {
+        "word": "blow",
+        "typeword": "v.,n.",
+        "pronounciation": "/blou/",
+        "meaning": "nở hoa; sự nở hoa"
+    },
+    {
+        "word": "blue",
+        "typeword": "adj.,n.",
+        "pronounciation": "/blu:/",
+        "meaning": "xanh, màu xanh"
+    },
+    {
+        "word": "board",
+        "typeword": "n.,v.",
+        "pronounciation": "/bɔ:d/",
+        "meaning": "tấm ván; lát ván, lót ván"
+    },
+    {
+        "word": "boat",
+        "typeword": "n.",
+        "pronounciation": "/bout/",
+        "meaning": "tàu, thuyền"
+    },
+    {
+        "word": "body",
+        "typeword": "n.",
+        "pronounciation": "/'bɔdi/",
+        "meaning": "thân thể, thân xác"
+    },
+    {
+        "word": "boil",
+        "typeword": "v.",
+        "pronounciation": "/bɔil/",
+        "meaning": "sôi, luộc"
+    },
+    {
+        "word": "bomb",
+        "typeword": "n.,v.",
+        "pronounciation": "/bɔm/",
+        "meaning": "quả bom; oánh bom, thả bom"
+    },
+    {
+        "word": "bone",
+        "typeword": "n.",
+        "pronounciation": "/boun/",
+        "meaning": "xương"
+    },
+    {
+        "word": "book",
+        "typeword": "n.,v.",
+        "pronounciation": "/buk/",
+        "meaning": "sách; ghi chép"
+    },
+    {
+        "word": "boot",
+        "typeword": "n.",
+        "pronounciation": "/bu:t/",
+        "meaning": "giày ống"
+    },
+    {
+        "word": "border",
+        "typeword": "n.",
+        "pronounciation": "/'bɔ:də/",
+        "meaning": "bờ, mép, vỉa, lề(đường)"
+    },
+    {
+        "word": "bore",
+        "typeword": "v.",
+        "pronounciation": "/bɔ:/",
+        "meaning": "buồn chán, buồn tẻ"
+    },
+    {
+        "word": "boring",
+        "typeword": "adj.",
+        "pronounciation": "/'bɔ:riɳ/",
+        "meaning": "buồn chán"
+    },
+    {
+        "word": "bored",
+        "typeword": "adj.",
+        "pronounciation": "",
+        "meaning": "buồn chán"
+    },
+    {
+        "word": "born",
+        "typeword": "v.",
+        "pronounciation": "/bɔ:n/",
+        "meaning": "sinh, đẻ"
+    },
+    {
+        "word": "borrow",
+        "typeword": "v.",
+        "pronounciation": "/'bɔrou/",
+        "meaning": "vay, mượn"
+    },
+    {
+        "word": "boss",
+        "typeword": "n.",
+        "pronounciation": "/bɔs/",
+        "meaning": "ông chủ, thủ trưởng"
+    },
+    {
+        "word": "both",
+        "typeword": "det.,pron.",
+        "pronounciation": "/bouθ/",
+        "meaning": "cả hai"
+    },
+    {
+        "word": "bother",
+        "typeword": "v.",
+        "pronounciation": "/'bɔðə/",
+        "meaning": "làm phiền, quấy rầy, làm bực mình"
+    },
+    {
+        "word": "bottle",
+        "typeword": "n.",
+        "pronounciation": "/'bɔtl/",
+        "meaning": "chai, lọ"
+    },
+    {
+        "word": "bottom",
+        "typeword": "n.,adj.",
+        "pronounciation": "/'bɔtəm/",
+        "meaning": "phần dưới cùng, thấp nhất; cuối, cuối cùng"
+    },
+    {
+        "word": "bound",
+        "typeword": "adj.",
+        "pronounciation": "/baund/",
+        "meaning": "nhất định, chắc chắn"
+    },
+    {
+        "word": "bowl",
+        "typeword": "n.",
+        "pronounciation": "/boul/",
+        "meaning": "cái bát"
+    },
+    {
+        "word": "box",
+        "typeword": "n.",
+        "pronounciation": "/bɔks/",
+        "meaning": "hộp, thùng"
+    },
+    {
+        "word": "boy",
+        "typeword": "n.",
+        "pronounciation": "/bɔi/",
+        "meaning": "con trai, thiếu niên"
+    },
+    {
+        "word": "brain",
+        "typeword": "n.",
+        "pronounciation": "/brein/",
+        "meaning": "óc não; đầu óc, trí não"
+    },
+    {
+        "word": "branch",
+        "typeword": "n.",
+        "pronounciation": "/brɑ:ntʃ/",
+        "meaning": "ngành; nhành cây, nhánh song, ngả đường"
+    },
+    {
+        "word": "brand",
+        "typeword": "n.",
+        "pronounciation": "/brænd/",
+        "meaning": "nhãn(hànghóa)"
+    },
+    {
+        "word": "brave",
+        "typeword": "adj.",
+        "pronounciation": "/breiv/",
+        "meaning": "gan dạ, can đảm"
+    },
+    {
+        "word": "bread",
+        "typeword": "n.",
+        "pronounciation": "/bred/",
+        "meaning": "bánh mỳ"
+    },
+    {
+        "word": "break",
+        "typeword": "v.,n.",
+        "pronounciation": "/breik/",
+        "meaning": "bẻ gãy, đập vỡ; sự gãy, sự vỡ"
+    },
+    {
+        "word": "broken",
+        "typeword": "adj.",
+        "pronounciation": "/'broukən/",
+        "meaning": "bị gãy, bị vỡ"
+    },
+    {
+        "word": "breakfast",
+        "typeword": "n.",
+        "pronounciation": "/'brekfəst/",
+        "meaning": "bữa điểm tâm, bữa sáng"
+    },
+    {
+        "word": "breast",
+        "typeword": "n.",
+        "pronounciation": "/brest/",
+        "meaning": "ngực, vú"
+    },
+    {
+        "word": "breath",
+        "typeword": "n.",
+        "pronounciation": "/breθ/",
+        "meaning": "hơi thở, hơi"
+    },
+    {
+        "word": "breathe",
+        "typeword": "v.",
+        "pronounciation": "/bri:ð/",
+        "meaning": "hít, thở"
+    },
+    {
+        "word": "breathing",
+        "typeword": "n.",
+        "pronounciation": "/'bri:ðiɳ/",
+        "meaning": "sự hô hấp, sự thở"
+    },
+    {
+        "word": "breed",
+        "typeword": "v.,n.",
+        "pronounciation": "/bri:d/",
+        "meaning": "nuôi dưỡng, chăm sóc, giáo dục; sinh đẻ; nòi giống"
+    },
+    {
+        "word": "brick",
+        "typeword": "n.",
+        "pronounciation": "/brik/",
+        "meaning": "gạch"
+    },
+    {
+        "word": "bridge",
+        "typeword": "n.",
+        "pronounciation": "/bridʤ/",
+        "meaning": "ái cầu"
+    },
+    {
+        "word": "brief",
+        "typeword": "adj.",
+        "pronounciation": "/bri:f/",
+        "meaning": "ngắn, gọn, vắn tắt"
+    },
+    {
+        "word": "briefly",
+        "typeword": "adv.",
+        "pronounciation": "/'bri:fli/",
+        "meaning": "ngắn, gọn, vắn tắt, tóm tắt"
+    },
+    {
+        "word": "bright",
+        "typeword": "adj.",
+        "pronounciation": "/brait/",
+        "meaning": "sáng, sáng chói"
+    },
+    {
+        "word": "brightly",
+        "typeword": "adv.",
+        "pronounciation": "/'braitli/",
+        "meaning": "sáng chói, tươi"
+    },
+    {
+        "word": "brilliant",
+        "typeword": "adj.",
+        "pronounciation": "/'briljənt/",
+        "meaning": "tỏa sáng, rực rỡ, chói lọi"
+    },
+    {
+        "word": "bring",
+        "typeword": "v.",
+        "pronounciation": "/briɳ/",
+        "meaning": "mang, cầm, xách lại"
+    },
+    {
+        "word": "broad",
+        "typeword": "adj.",
+        "pronounciation": "/broutʃ/",
+        "meaning": "rộng"
+    },
+    {
+        "word": "broadly",
+        "typeword": "adv.",
+        "pronounciation": "/'brɔ:dli/",
+        "meaning": "rộng, rộng rãi"
+    },
+    {
+        "word": "broadcast",
+        "typeword": "v.,n.",
+        "pronounciation": "/'brɔ:dkɑ:st/",
+        "meaning": "tung ra khắp nơi, truyền rộng rãi; phát thanh, quảng bá"
+    },
+    {
+        "word": "brother",
+        "typeword": "n.",
+        "pronounciation": "/'brΔðз/",
+        "meaning": "anh, em trai"
+    },
+    {
+        "word": "brown",
+        "typeword": "adj.,n.",
+        "pronounciation": "/braun/",
+        "meaning": "nâu, màu nâu"
+    },
+    {
+        "word": "brush",
+        "typeword": "n.,v.",
+        "pronounciation": "/brΔ∫/",
+        "meaning": "bàn chải; chải, quét"
+    },
+    {
+        "word": "bubble",
+        "typeword": "n.",
+        "pronounciation": "/'bΔbl/",
+        "meaning": "bong bóng, bọt, tăm"
+    },
+    {
+        "word": "budget",
+        "typeword": "n.",
+        "pronounciation": "/ˈbʌdʒɪt/",
+        "meaning": "ngân sách"
+    },
+    {
+        "word": "build",
+        "typeword": "v.",
+        "pronounciation": "/bild/",
+        "meaning": "xây dựng"
+    },
+    {
+        "word": "building",
+        "typeword": "n.",
+        "pronounciation": "/'bildiŋ/",
+        "meaning": "sự xây dựng, công trình xây dựng; tòa nhà bin đinh"
+    },
+    {
+        "word": "bullet",
+        "typeword": "n.",
+        "pronounciation": "/'bulit/",
+        "meaning": "đạn(súngtrường,súnglục)"
+    },
+    {
+        "word": "bunch",
+        "typeword": "n.",
+        "pronounciation": "/bΛnt∫/",
+        "meaning": "búi,chùm,bó,cụm,buồng;bầy,đàn(AME)"
+    },
+    {
+        "word": "burn",
+        "typeword": "v.",
+        "pronounciation": "/bə:n/",
+        "meaning": "đốt, đốt cháy, thắp, nung, thiêu"
+    },
+    {
+        "word": "burnt",
+        "typeword": "adj.",
+        "pronounciation": "/bə:nt/",
+        "meaning": "bị đốt,bị cháy, khê;rám nắng, sạm(da)"
+    },
+    {
+        "word": "burst",
+        "typeword": "v.",
+        "pronounciation": "/bə:st/",
+        "meaning": "nổ, nổ tung (bom,đạn); nổ, vỡ(bongbóng); háohức"
+    },
+    {
+        "word": "bury",
+        "typeword": "v.",
+        "pronounciation": "/'beri/",
+        "meaning": "chôn cất, mai táng"
+    },
+    {
+        "word": "bus",
+        "typeword": "n.",
+        "pronounciation": "/bʌs/",
+        "meaning": "xe buýt"
+    },
+    {
+        "word": "bush",
+        "typeword": "n.",
+        "pronounciation": "/bu∫/",
+        "meaning": "bụi cây, bụi rậm"
+    },
+    {
+        "word": "business",
+        "typeword": "n.",
+        "pronounciation": "/'bizinis/",
+        "meaning": "việc buôn bán, thương mại, kinh doanh"
+    },
+    {
+        "word": "businessman",
+        "typeword": "n.",
+        "pronounciation": "",
+        "meaning": "thương nhân"
+    },
+    {
+        "word": "busy",
+        "typeword": "adj.",
+        "pronounciation": "/´bizi/",
+        "meaning": "bận,bận rộn"
+    },
+    {
+        "word": "but",
+        "typeword": "conj.",
+        "pronounciation": "/bʌt/",
+        "meaning": "nhưng"
+    },
+    {
+        "word": "butter",
+        "typeword": "n.",
+        "pronounciation": "/'bʌtə/",
+        "meaning": "bơ"
+    },
+    {
+        "word": "button",
+        "typeword": "n.",
+        "pronounciation": "/'bʌtn/",
+        "meaning": "cái nút, cái khuy, cúc"
+    },
+    {
+        "word": "buy",
+        "typeword": "v.",
+        "pronounciation": "/bai/",
+        "meaning": "mua"
+    },
+    {
+        "word": "buyer",
+        "typeword": "n.",
+        "pronounciation": "/´baiə/",
+        "meaning": "người mua"
+    },
+    {
+        "word": "by",
+        "typeword": "prep.,adv.",
+        "pronounciation": "/bai/",
+        "meaning": "bởi,bằng"
+    },
+    {
+        "word": "cent",
+        "typeword": "n.",
+        "pronounciation": "/sent/",
+        "meaning": "đồngxu(bằng1/100đôla)"
+    },
+    {
+        "word": "cabinet",
+        "typeword": "n.",
+        "pronounciation": "/'kæbinit/",
+        "meaning": "tủ có nhiều ngăn đựng đồ"
+    },
+    {
+        "word": "cable",
+        "typeword": "n.",
+        "pronounciation": "/'keibl/",
+        "meaning": "dây cáp"
+    },
+    {
+        "word": "cake",
+        "typeword": "n.",
+        "pronounciation": "/keik/",
+        "meaning": "bánh ngọt"
+    },
+    {
+        "word": "calculate",
+        "typeword": "v.",
+        "pronounciation": "/'kælkjuleit/",
+        "meaning": "tính toán"
+    },
+    {
+        "word": "calculation",
+        "typeword": "n.",
+        "pronounciation": "/,kælkju'lei∫n/",
+        "meaning": "sự tính toán"
+    },
+    {
+        "word": "call",
+        "typeword": "v.,n.",
+        "pronounciation": "/kɔ:l/",
+        "meaning": "gọi; tiếng kêu, tiếng gọi"
+    },
+    {
+        "word": "calm",
+        "typeword": "adj.,v.,n.",
+        "pronounciation": "/kɑ:m/",
+        "meaning": "yên lặng, làm dịu đi; sự yên lặng, sự ê mả"
+    },
+    {
+        "word": "calmly",
+        "typeword": "adv.",
+        "pronounciation": "/kɑ:mli/",
+        "meaning": "yên lặng, ê mả; bình tĩnh, điềm tĩnh"
+    },
+    {
+        "word": "camera",
+        "typeword": "n.",
+        "pronounciation": "/kæmərə/",
+        "meaning": "máy ảnh"
+    },
+    {
+        "word": "camp",
+        "typeword": "n.,v.",
+        "pronounciation": "/kæmp/",
+        "meaning": "trại, chỗ cắm trại; cắm trại, hạ trại"
+    },
+    {
+        "word": "camping",
+        "typeword": "n.",
+        "pronounciation": "/kæmpiη/",
+        "meaning": "sự cắm trại"
+    },
+    {
+        "word": "campaign",
+        "typeword": "n.",
+        "pronounciation": "/kæmˈpeɪn/",
+        "meaning": "chiến dịch, cuộc vận động"
+    },
+    {
+        "word": "canmodal",
+        "typeword": "v.,n.",
+        "pronounciation": "/kæn/",
+        "meaning": "có thể; nhà tù, nhà giam, bình, ca đựng"
+    },
+    {
+        "word": "couldmodal",
+        "typeword": "v.",
+        "pronounciation": "/kud/",
+        "meaning": "có thể"
+    },
+    {
+        "word": "cancel",
+        "typeword": "v.",
+        "pronounciation": "/´kænsəl/",
+        "meaning": "hủy bỏ, xóa bỏ"
+    },
+    {
+        "word": "cancer",
+        "typeword": "n.",
+        "pronounciation": "/'kænsə/",
+        "meaning": "bệnh ung thư"
+    },
+    {
+        "word": "candidate",
+        "typeword": "n.",
+        "pronounciation": "/'kændidit/",
+        "meaning": "người ứng cử,thí sinh, người dự thi"
+    },
+    {
+        "word": "candy",
+        "typeword": "n.",
+        "pronounciation": "/´kændi/",
+        "meaning": "kẹo"
+    },
+    {
+        "word": "cap",
+        "typeword": "n.",
+        "pronounciation": "/kæp/",
+        "meaning": "mũ lưỡi trai, mũvải"
+    },
+    {
+        "word": "capable(of)",
+        "typeword": "adj.",
+        "pronounciation": "/'keipәb(ә)l/",
+        "meaning": "có tài, có năng lực;có khả năng, cả gan"
+    },
+    {
+        "word": "capacity",
+        "typeword": "n.",
+        "pronounciation": "/kə'pæsiti/",
+        "meaning": "năng lực, khả năng tiếp thu, năng suất"
+    },
+    {
+        "word": "capital",
+        "typeword": "n.,adj.",
+        "pronounciation": "/ˈkæpɪtl/",
+        "meaning": "thủ đô, tiền vốn; chủ yếu, chính yếu, cơ bản"
+    },
+    {
+        "word": "captain",
+        "typeword": "n.",
+        "pronounciation": "/'kæptin/",
+        "meaning": "người cầm đầu,người chỉ huy,thủ lĩnh"
+    },
+    {
+        "word": "capture",
+        "typeword": "v.,n.",
+        "pronounciation": "/'kæptʃə/",
+        "meaning": "bắt giữ, bắt; sự bắt giữ,sự bị bắt"
+    },
+    {
+        "word": "car",
+        "typeword": "n.",
+        "pronounciation": "/kɑ:/",
+        "meaning": "xe hơi"
+    },
+    {
+        "word": "card",
+        "typeword": "n.",
+        "pronounciation": "/kɑ:d/",
+        "meaning": "thẻ,thiếp"
+    },
+    {
+        "word": "cardboard",
+        "typeword": "n.",
+        "pronounciation": "/´ka:d¸bɔ:d/",
+        "meaning": "bìa cứng,các tông"
+    },
+    {
+        "word": "care",
+        "typeword": "n.,v.",
+        "pronounciation": "/kɛər/",
+        "meaning": "sự chăm sóc,chăm nom; chăm sóc"
+    },
+    {
+        "word": "takecare(o",
+        "typeword": "",
+        "pronounciation": "",
+        "meaning": "sự giữ gìn"
+    },
+    {
+        "word": "carefor",
+        "typeword": "",
+        "pronounciation": "",
+        "meaning": "trông nom,chăm sóc"
+    },
+    {
+        "word": "career",
+        "typeword": "n.",
+        "pronounciation": "/kə'riə/",
+        "meaning": "nghề nghiệp,sự nghiệp"
+    },
+    {
+        "word": "careful",
+        "typeword": "adj.",
+        "pronounciation": "/'keəful/",
+        "meaning": "cẩn thận,cẩn trọng,biết giữ gìn"
+    },
+    {
+        "word": "carefully",
+        "typeword": "adv.",
+        "pronounciation": "/´kɛəfuli/",
+        "meaning": "cẩn thận,chu đáo"
+    },
+    {
+        "word": "careless",
+        "typeword": "adj.",
+        "pronounciation": "/´kɛəlis/",
+        "meaning": "sơ suất,cầu thả"
+    },
+    {
+        "word": "carelessly",
+        "typeword": "adv.",
+        "pronounciation": "",
+        "meaning": "cẩu thả, bất cẩn"
+    },
+    {
+        "word": "carpet",
+        "typeword": "n.",
+        "pronounciation": "/'kɑ:pit/",
+        "meaning": "tấm thảm, thảm(cỏ)"
+    },
+    {
+        "word": "carrot",
+        "typeword": "n.",
+        "pronounciation": "/´kærət/",
+        "meaning": "củ cà rốt"
+    },
+    {
+        "word": "carry",
+        "typeword": "v.",
+        "pronounciation": "/ˈkæri/",
+        "meaning": "mang,vác,khuân chở"
+    },
+    {
+        "word": "case",
+        "typeword": "n.",
+        "pronounciation": "/keis/",
+        "meaning": "vỏ,ngăn,túi"
+    },
+    {
+        "word": "cash",
+        "typeword": "n.",
+        "pronounciation": "/kæʃ/",
+        "meaning": "tiền, tiền mặt"
+    },
+    {
+        "word": "cast",
+        "typeword": "v.,n.",
+        "pronounciation": "/kɑ:st/",
+        "meaning": "quăng, ném, thả, đánh gục;sự quăng,sự ném(lưới), sựthả(neo)"
+    },
+    {
+        "word": "castle",
+        "typeword": "n.",
+        "pronounciation": "/'kɑ:sl/",
+        "meaning": "thành trì,thành quách"
+    },
+    {
+        "word": "cat",
+        "typeword": "n.",
+        "pronounciation": "/kæt/",
+        "meaning": "con mèo"
+    },
+    {
+        "word": "catch",
+        "typeword": "v.",
+        "pronounciation": "/kætʃ/",
+        "meaning": "bắt lấy, nắm lấy, tóm lấy, chộp lấy"
+    },
+    {
+        "word": "category",
+        "typeword": "n.",
+        "pronounciation": "/'kætigəri/",
+        "meaning": "hạng, loại; phạmtrù"
+    },
+    {
+        "word": "cause",
+        "typeword": "n.,v.",
+        "pronounciation": "/kɔ:z/",
+        "meaning": "nguyên nhân, nguyên do; gây ra, gâynên"
+    },
+    {
+        "word": "cease",
+        "typeword": "v.",
+        "pronounciation": "/si:s/",
+        "meaning": "dừng,ngừng,ngớt,thôi,hết,tạnh"
+    },
+    {
+        "word": "ceiling",
+        "typeword": "n.",
+        "pronounciation": "/ˈsilɪŋ/",
+        "meaning": "trần nhà"
+    },
+    {
+        "word": "celebrate",
+        "typeword": "v.",
+        "pronounciation": "/'selibreit/",
+        "meaning": "kỷ niệm, làm lễ kỷ niệm;tán dương, ca tụng"
+    },
+    {
+        "word": "celebration",
+        "typeword": "n.",
+        "pronounciation": "/,seli'breiʃn/",
+        "meaning": "sự kỷ niệm, lễ kỷ niệm; sự tán dương,sự ca tụng"
+    },
+    {
+        "word": "cell",
+        "typeword": "n.",
+        "pronounciation": "/sel/",
+        "meaning": "ô, ngăn"
+    },
+    {
+        "word": "cellphone",
+        "typeword": "n.",
+        "pronounciation": "",
+        "meaning": "điện thoại di động"
+    },
+    {
+        "word": "cent",
+        "typeword": "n.",
+        "pronounciation": "/sent/",
+        "meaning": "đồngxu(=1/100đôla)"
+    },
+    {
+        "word": "centimetre",
+        "typeword": "n.",
+        "pronounciation": "",
+        "meaning": "xentimet"
+    },
+    {
+        "word": "central",
+        "typeword": "adj.",
+        "pronounciation": "/´sentrəl/",
+        "meaning": "trung tâm,ở giữa, trung ương"
+    },
+    {
+        "word": "centre",
+        "typeword": "n.",
+        "pronounciation": "/'sentə/",
+        "meaning": "điểm giữa, trung tâm,trung ương"
+    },
+    {
+        "word": "century",
+        "typeword": "n.",
+        "pronounciation": "/'sentʃuri/",
+        "meaning": "thế kỷ"
+    },
+    {
+        "word": "ceremony",
+        "typeword": "n.",
+        "pronounciation": "/´seriməni/",
+        "meaning": "nghi thức, nghi lễ"
+    },
+    {
+        "word": "certain",
+        "typeword": "adj.,pron.",
+        "pronounciation": "/'sə:tn/",
+        "meaning": "chắc chắn"
+    },
+    {
+        "word": "certainly",
+        "typeword": "adv.",
+        "pronounciation": "/´sə:tnli/",
+        "meaning": "chắc chắn, nhất định"
+    },
+    {
+        "word": "uncertain",
+        "typeword": "adj.",
+        "pronounciation": "/ʌn'sə:tn/",
+        "meaning": "thiếu chính xác, không chắc chắn"
+    },
+    {
+        "word": "certificate",
+        "typeword": "n.",
+        "pronounciation": "/sə'tifikit/",
+        "meaning": "giấy chứng nhận, bằng, chứng chỉ"
+    },
+    {
+        "word": "chain",
+        "typeword": "n.,v.",
+        "pronounciation": "/tʃeɪn/",
+        "meaning": "dây, xích; xính lại, trói lại"
+    },
+    {
+        "word": "chair",
+        "typeword": "n.",
+        "pronounciation": "/tʃeə/",
+        "meaning": "ghế"
+    },
+    {
+        "word": "chairman",
+        "typeword": "n.",
+        "pronounciation": "/'tʃeəmən/",
+        "meaning": "chủ tịch,chủ tọa"
+    },
+    {
+        "word": "challenge",
+        "typeword": "n.,v.",
+        "pronounciation": "/'tʃælindʤ/",
+        "meaning": "sự thử thách, sự thách thức ; thách thức, thử thách"
+    },
+    {
+        "word": "chamber",
+        "typeword": "n.",
+        "pronounciation": "/ˈtʃeɪmbər/",
+        "meaning": "buồng,phòng,buồng ngủ"
+    },
+    {
+        "word": "chance",
+        "typeword": "n.",
+        "pronounciation": "/tʃæns,tʃɑ:ns/",
+        "meaning": "sựmaymắn"
+    },
+    {
+        "word": "change",
+        "typeword": "v.,n.",
+        "pronounciation": "/tʃeɪndʒ/",
+        "meaning": "thay đổi,sự thay đổi, sự biến đổi"
+    },
+    {
+        "word": "channel",
+        "typeword": "n.",
+        "pronounciation": "/'tʃænl/",
+        "meaning": "kênh(TV,radio),eo biển"
+    },
+    {
+        "word": "chapter",
+        "typeword": "n.",
+        "pronounciation": "/'t∫æptə(r)/",
+        "meaning": "chương(sách)"
+    },
+    {
+        "word": "character",
+        "typeword": "n.",
+        "pronounciation": "/'kæriktə/",
+        "meaning": "tính cách, đặc tính, nhân vật"
+    },
+    {
+        "word": "characterist",
+        "typeword": "adj.,n.",
+        "pronounciation": "/¸kærəktə´ristik",
+        "meaning": "riêng, riêng biệt, đặc trưng, đặc tính, đặc điểm"
+    },
+    {
+        "word": "charge",
+        "typeword": "n.,v.",
+        "pronounciation": "/tʃɑ:dʤ/",
+        "meaning": "nhiệm vụ ,bổn phận, trách nhiệm; giao nhiệm vụ,giao việc"
+    },
+    {
+        "word": "charity",
+        "typeword": "n.",
+        "pronounciation": "/´tʃæriti/",
+        "meaning": "lòngtừthiện,lòngnhânđức;sựbốthí"
+    },
+    {
+        "word": "chart",
+        "typeword": "n.,v.",
+        "pronounciation": "/tʃa:t/",
+        "meaning": "đồ thị, biểu đồ; vẽ đồ thị, lập biểu đồ"
+    },
+    {
+        "word": "chase",
+        "typeword": "v.,n.",
+        "pronounciation": "/tʃeis/",
+        "meaning": "săn bắt; sự săn bắt"
+    },
+    {
+        "word": "chat",
+        "typeword": "v.,n.",
+        "pronounciation": "/tʃæt/",
+        "meaning": "nói chuyện, tán gẫu;chuyện phiếm, chuyện gẫu"
+    },
+    {
+        "word": "cheap",
+        "typeword": "adj.",
+        "pronounciation": "/tʃi:p/",
+        "meaning": "rẻ"
+    },
+    {
+        "word": "cheaply",
+        "typeword": "adv.",
+        "pronounciation": "",
+        "meaning": "rẻ, rẻ tiền"
+    },
+    {
+        "word": "cheat",
+        "typeword": "v.,n.",
+        "pronounciation": "/tʃit/",
+        "meaning": "lừa, lừa đảo; trò lừa đảo, trò gian lận"
+    },
+    {
+        "word": "check",
+        "typeword": "v.,n.",
+        "pronounciation": "/tʃek/",
+        "meaning": "kiểm tra; sự kiểm tra"
+    },
+    {
+        "word": "cheek",
+        "typeword": "n.",
+        "pronounciation": "/´tʃi:k/",
+        "meaning": "má"
+    },
+    {
+        "word": "cheerful",
+        "typeword": "adj.",
+        "pronounciation": "/´tʃiəful/",
+        "meaning": "vui mừng, phấn khởi,hồ hởi"
+    },
+    {
+        "word": "cheerfully",
+        "typeword": "adv.",
+        "pronounciation": "",
+        "meaning": "vui vẻ, phấn khởi"
+    },
+    {
+        "word": "cheese",
+        "typeword": "n.",
+        "pronounciation": "/tʃi:z/",
+        "meaning": "pho-mát"
+    },
+    {
+        "word": "chemical",
+        "typeword": "adj.,n.",
+        "pronounciation": "/ˈkɛmɪkəl/",
+        "meaning": "thuộc hóa học; chất hóa học,hóachất"
+    },
+    {
+        "word": "chemist",
+        "typeword": "n.",
+        "pronounciation": "/´kemist/",
+        "meaning": "nhà hóa học"
+    },
+    {
+        "word": "chemistry",
+        "typeword": "n.",
+        "pronounciation": "/´kemistri/",
+        "meaning": "hóa học, môn hóa học, ngành hóa học"
+    },
+    {
+        "word": "cheque",
+        "typeword": "n.",
+        "pronounciation": "/t∫ek/",
+        "meaning": "séc"
+    },
+    {
+        "word": "chest",
+        "typeword": "n.",
+        "pronounciation": "/tʃest/",
+        "meaning": "tủ, rương, hòm"
+    },
+    {
+        "word": "chew",
+        "typeword": "v.",
+        "pronounciation": "/tʃu:/",
+        "meaning": "nhai, ngẫm nghĩ"
+    },
+    {
+        "word": "chicken",
+        "typeword": "n.",
+        "pronounciation": "/ˈtʃɪkin/",
+        "meaning": "gà, gà con, thịt gà"
+    },
+    {
+        "word": "chief",
+        "typeword": "adj.,n.",
+        "pronounciation": "/tʃi:f/",
+        "meaning": "trọng yếu,chính yếu; thủ lĩnh, lãnh tụ,người đứng đầu, xếp"
+    },
+    {
+        "word": "child",
+        "typeword": "n.",
+        "pronounciation": "/tʃaild/",
+        "meaning": "đứa bé, đứa trẻ"
+    },
+    {
+        "word": "chin",
+        "typeword": "n.",
+        "pronounciation": "/tʃin/",
+        "meaning": "cằm"
+    },
+    {
+        "word": "chip",
+        "typeword": "n.",
+        "pronounciation": "/tʃip/",
+        "meaning": "vỏ bào, mảnh vỡ,chỗ sứt, mẻ"
+    },
+    {
+        "word": "chocolate",
+        "typeword": "n.",
+        "pronounciation": "/ˈtʃɒklɪt/",
+        "meaning": "sôcôla"
+    },
+    {
+        "word": "choice",
+        "typeword": "n.",
+        "pronounciation": "/tʃɔɪs/",
+        "meaning": "sự lựa chọn"
+    },
+    {
+        "word": "choose",
+        "typeword": "v.",
+        "pronounciation": "/t∫u:z/",
+        "meaning": "chọn, lựa chọn"
+    },
+    {
+        "word": "chop",
+        "typeword": "v.",
+        "pronounciation": "/tʃɔp/",
+        "meaning": "chặt, đốn, chẻ"
+    },
+    {
+        "word": "church",
+        "typeword": "n.",
+        "pronounciation": "/tʃə:tʃ/",
+        "meaning": "nhà thờ"
+    },
+    {
+        "word": "cigarette",
+        "typeword": "n.",
+        "pronounciation": "/¸sigə´ret/",
+        "meaning": "điếu thuốc lá"
+    },
+    {
+        "word": "cinema",
+        "typeword": "n.",
+        "pronounciation": "/ˈsɪnəmə/",
+        "meaning": "rạp xi nê,rạp chiếu bóng"
+    },
+    {
+        "word": "circle",
+        "typeword": "n.",
+        "pronounciation": "/'sə:kl/",
+        "meaning": "đường tròn, hình tròn"
+    },
+    {
+        "word": "circumstance",
+        "typeword": "n.",
+        "pronounciation": "/ˈsɜrkəmˌstæns/",
+        "meaning": "hoàn cảnh,trường hợp,tình huống"
+    },
+    {
+        "word": "citizen",
+        "typeword": "n.",
+        "pronounciation": "/´sitizən/",
+        "meaning": "người thành thị"
+    },
+    {
+        "word": "city",
+        "typeword": "n.",
+        "pronounciation": "/'si:ti/",
+        "meaning": "thành phố"
+    },
+    {
+        "word": "civil",
+        "typeword": "adj.",
+        "pronounciation": "/'sivl/",
+        "meaning": "(thuộc) công dân"
+    },
+    {
+        "word": "claim",
+        "typeword": "v.,n.",
+        "pronounciation": "/kleim/",
+        "meaning": "đòi hỏi, yêu sách; sự đòi hỏi, sự yêu sách, sự thỉnh cầu"
+    },
+    {
+        "word": "clap",
+        "typeword": "v.,n.",
+        "pronounciation": "/klæp/",
+        "meaning": "vỗ,vỗ tay; tiếng nổ,tiếng vỗ tay"
+    },
+    {
+        "word": "class",
+        "typeword": "n.",
+        "pronounciation": "/klɑ:s/",
+        "meaning": "lớp học"
+    },
+    {
+        "word": "classic",
+        "typeword": "adj.,n.",
+        "pronounciation": "/'klæsik/",
+        "meaning": "cổ điển, kinh điển"
+    },
+    {
+        "word": "classroom",
+        "typeword": "n.",
+        "pronounciation": "/'klα:si/",
+        "meaning": "lớp học, phòng học"
+    },
+    {
+        "word": "clean",
+        "typeword": "adj.,v.",
+        "pronounciation": "/kli:n/",
+        "meaning": "sạch , sạch sẽ"
+    },
+    {
+        "word": "clear",
+        "typeword": "adj.,v.",
+        "pronounciation": "/ˈklɪr/",
+        "meaning": "lau chùi, quét dọn"
+    },
+    {
+        "word": "clearly",
+        "typeword": "adv.",
+        "pronounciation": "/´kliəli/",
+        "meaning": "rõ ràng, sáng sủa"
+    },
+    {
+        "word": "clerk",
+        "typeword": "n.",
+        "pronounciation": "/kla:k/",
+        "meaning": "thư ký, linh mục,mục sư"
+    },
+    {
+        "word": "clever",
+        "typeword": "adj.",
+        "pronounciation": "/'klevə/",
+        "meaning": "lanh lợi, thông minh, tàigiỏi, khéoléo"
+    },
+    {
+        "word": "click",
+        "typeword": "v.,n.",
+        "pronounciation": "/klik/",
+        "meaning": "làm thành tiếng lách cách; tiếng lách cách, cú nhắp (chuột)"
+    }
+]

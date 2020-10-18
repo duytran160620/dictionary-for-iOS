@@ -1,0 +1,1334 @@
+[
+    {
+        "verb": "abide",
+        "simplepast": "abode/abided",
+        "pastparticiple": "abode/abided",
+        "meaning": "lưu trú, lưu lại"
+    },
+    {
+        "verb": "arise",
+        "simplepast": "arose",
+        "pastparticiple": "arisen",
+        "meaning": "phát sinh"
+    },
+    {
+        "verb": "awake",
+        "simplepast": " awoke",
+        "pastparticiple": "awoken",
+        "meaning": "đánh thức, thức"
+    },
+    {
+        "verb": "be",
+        "simplepast": "was/were",
+        "pastparticiple": "been",
+        "meaning": "thì, là, bị, ở"
+    },
+    {
+        "verb": "bear",
+        "simplepast": "bore",
+        "pastparticiple": "borne",
+        "meaning": " mang, chịu đựng"
+    },
+    {
+        "verb": "become",
+        "simplepast": "became",
+        "pastparticiple": "become",
+        "meaning": "trở nên"
+    },
+    {
+        "verb": "befall",
+        "simplepast": "befell",
+        "pastparticiple": "befallen",
+        "meaning": "xảy đến"
+    },
+    {
+        "verb": "begin",
+        "simplepast": "began",
+        "pastparticiple": "begun",
+        "meaning": "bắt đầu"
+    },
+    {
+        "verb": "behold",
+        "simplepast": "beheld",
+        "pastparticiple": "beheld",
+        "meaning": "ngắm nhìn"
+    },
+    {
+        "verb": "bend",
+        "simplepast": "bent",
+        "pastparticiple": "bent",
+        "meaning": "bẻ cong"
+    },
+    {
+        "verb": "beset",
+        "simplepast": " beset",
+        "pastparticiple": "beset",
+        "meaning": "bao quanh"
+    },
+    {
+        "verb": "bespeak",
+        "simplepast": "bespoke",
+        "pastparticiple": "bespoken",
+        "meaning": "chứng tỏ"
+    },
+    {
+        "verb": "bid",
+        "simplepast": "bid",
+        "pastparticiple": "bid",
+        "meaning": "trả giá"
+    },
+    {
+        "verb": "bind",
+        "simplepast": "bound",
+        "pastparticiple": "bound",
+        "meaning": "buộc, trói"
+    },
+    {
+        "verb": "bleed",
+        "simplepast": " bled",
+        "pastparticiple": "bled",
+        "meaning": " chảy máu"
+    },
+    {
+        "verb": "blow",
+        "simplepast": "blew",
+        "pastparticiple": "blown",
+        "meaning": " thổi"
+    },
+    {
+        "verb": "break",
+        "simplepast": "broke",
+        "pastparticiple": "broken",
+        "meaning": "đập vỡ"
+    },
+    {
+        "verb": "breed",
+        "simplepast": "bred",
+        "pastparticiple": "bred",
+        "meaning": " nuôi, dạy dỗ"
+    },
+    {
+        "verb": "bring",
+        "simplepast": "brought",
+        "pastparticiple": "brought",
+        "meaning": "mang đến"
+    },
+    {
+        "verb": "broadcast",
+        "simplepast": "broadcast",
+        "pastparticiple": "broadcast",
+        "meaning": "phát thanh"
+    },
+    {
+        "verb": "build",
+        "simplepast": "built",
+        "pastparticiple": "built",
+        "meaning": "xây dựng"
+    },
+    {
+        "verb": "burn",
+        "simplepast": "burnt/burned",
+        "pastparticiple": "burnt/burned",
+        "meaning": "đốt, cháy"
+    },
+    {
+        "verb": "buy",
+        "simplepast": "bought",
+        "pastparticiple": "bought",
+        "meaning": "mua"
+    },
+    {
+        "verb": "cast",
+        "simplepast": "cast",
+        "pastparticiple": "cast",
+        "meaning": "ném, tung"
+    },
+    {
+        "verb": "catch",
+        "simplepast": "caught",
+        "pastparticiple": "caught",
+        "meaning": "bắt, chụp"
+    },
+    {
+        "verb": "chide",
+        "simplepast": "chid/chided",
+        "pastparticiple": "chidden/chided",
+        "meaning": "mắng, chửi"
+    },
+    {
+        "verb": "choose",
+        "simplepast": "chose",
+        "pastparticiple": "chosen",
+        "meaning": "chọn, lựa"
+    },
+    {
+        "verb": "cleave",
+        "simplepast": "clove",
+        "pastparticiple": "cleft/cleaved",
+        "meaning": "chẻ, tách hai"
+    },
+    {
+        "verb": "cleave",
+        "simplepast": "clave",
+        "pastparticiple": "cleaved",
+        "meaning": "dính chặt"
+    },
+    {
+        "verb": "come",
+        "simplepast": "came",
+        "pastparticiple": "come",
+        "meaning": "đến, đi đến"
+    },
+    {
+        "verb": "cost",
+        "simplepast": "cost",
+        "pastparticiple": "cost",
+        "meaning": "có giá là"
+    },
+    {
+        "verb": "crow",
+        "simplepast": "crew/crewed",
+        "pastparticiple": "crowed",
+        "meaning": "gáy (gà)"
+    },
+    {
+        "verb": "cut",
+        "simplepast": "cut",
+        "pastparticiple": "cut",
+        "meaning": "cắn, chặt"
+    },
+    {
+        "verb": "deal",
+        "simplepast": "dealt",
+        "pastparticiple": " dealt",
+        "meaning": "giao thiệp"
+    },
+    {
+        "verb": "dig",
+        "simplepast": "dug",
+        "pastparticiple": "dug ",
+        "meaning": "dào"
+    },
+    {
+        "verb": "dive",
+        "simplepast": "dove/dived",
+        "pastparticiple": "dived",
+        "meaning": "lặn, lao xuống"
+    },
+    {
+        "verb": "draw",
+        "simplepast": "drew",
+        "pastparticiple": "drawn",
+        "meaning": "vẽ, kéo"
+    },
+    {
+        "verb": "dream",
+        "simplepast": "dreamt/dreamed",
+        "pastparticiple": "dreamt/dreamed",
+        "meaning": "mơ thấy"
+    },
+    {
+        "verb": "drink",
+        "simplepast": "drank",
+        "pastparticiple": "drunk",
+        "meaning": "uống"
+    },
+    {
+        "verb": "drive",
+        "simplepast": "drove",
+        "pastparticiple": "driven",
+        "meaning": "lái xe"
+    },
+    {
+        "verb": "dwell",
+        "simplepast": "dwelt",
+        "pastparticiple": "dwelt",
+        "meaning": "trú ngụ, ở"
+    },
+    {
+        "verb": "eat",
+        "simplepast": "ate",
+        "pastparticiple": "eaten",
+        "meaning": "ăn"
+    },
+    {
+        "verb": "fall",
+        "simplepast": "fell",
+        "pastparticiple": "fallen",
+        "meaning": "ngã, rơi"
+    },
+    {
+        "verb": "feed",
+        "simplepast": "fed",
+        "pastparticiple": "fed",
+        "meaning": "cho ăn, ăn, nuôi"
+    },
+    {
+        "verb": "feel",
+        "simplepast": "felt",
+        "pastparticiple": "felt",
+        "meaning": "cảm thấy"
+    },
+    {
+        "verb": "fight",
+        "simplepast": "fought",
+        "pastparticiple": "fought",
+        "meaning": "chiến đấu"
+    },
+    {
+        "verb": "find",
+        "simplepast": "found",
+        "pastparticiple": "found",
+        "meaning": "tìm thấy, thấy"
+    },
+    {
+        "verb": "flee",
+        "simplepast": "fled",
+        "pastparticiple": "fled",
+        "meaning": "chạy trốn"
+    },
+    {
+        "verb": "fling",
+        "simplepast": "flung",
+        "pastparticiple": "flung",
+        "meaning": "tung; quang"
+    },
+    {
+        "verb": "fly",
+        "simplepast": "flew",
+        "pastparticiple": "flown",
+        "meaning": "bay"
+    },
+    {
+        "verb": "forbear",
+        "simplepast": "forbore",
+        "pastparticiple": "forborne",
+        "meaning": "nhịn"
+    },
+    {
+        "verb": "forbid",
+        "simplepast": "forbade/forbad",
+        "pastparticiple": "forbidden",
+        "meaning": "cấm, cấm đoán"
+    },
+    {
+        "verb": "forecast",
+        "simplepast": "forecast",
+        "pastparticiple": "forecast",
+        "meaning": "tiên đoán"
+    },
+    {
+        "verb": "foresee",
+        "simplepast": "foresaw",
+        "pastparticiple": "forseen",
+        "meaning": "thấy trước"
+    },
+    {
+        "verb": "foretell",
+        "simplepast": "foretold",
+        "pastparticiple": "foretold",
+        "meaning": "đoán trước"
+    },
+    {
+        "verb": "forget",
+        "simplepast": "forgot",
+        "pastparticiple": "forgotten",
+        "meaning": "quên"
+    },
+    {
+        "verb": "forgive",
+        "simplepast": "forgave",
+        "pastparticiple": "forgiven",
+        "meaning": "tha thứ"
+    },
+    {
+        "verb": "forsake",
+        "simplepast": "forsook",
+        "pastparticiple": "forsaken",
+        "meaning": "ruồng bỏ"
+    },
+    {
+        "verb": "freeze",
+        "simplepast": "froze",
+        "pastparticiple": "frozen",
+        "meaning": "(làm) đông lại"
+    },
+    {
+        "verb": "get",
+        "simplepast": "got",
+        "pastparticiple": "got/gotten",
+        "meaning": "có được"
+    },
+    {
+        "verb": "gild",
+        "simplepast": "gilt/gilded",
+        "pastparticiple": "gilt/gilded",
+        "meaning": "mạ vàng"
+    },
+    {
+        "verb": "gird",
+        "simplepast": "girt/girded",
+        "pastparticiple": "girt/girded",
+        "meaning": "đeo vào"
+    },
+    {
+        "verb": "give",
+        "simplepast": "gave",
+        "pastparticiple": "given",
+        "meaning": "cho"
+    },
+    {
+        "verb": "go",
+        "simplepast": "went",
+        "pastparticiple": "gone",
+        "meaning": "đi"
+    },
+    {
+        "verb": "grind",
+        "simplepast": "ground",
+        "pastparticiple": "ground",
+        "meaning": "nghiền, xay"
+    },
+    {
+        "verb": "grow",
+        "simplepast": "grew",
+        "pastparticiple": "grown",
+        "meaning": "mọc, trồng"
+    },
+    {
+        "verb": "hang",
+        "simplepast": "hung",
+        "pastparticiple": "hung",
+        "meaning": "móc lên, treo lên"
+    },
+    {
+        "verb": "hear",
+        "simplepast": "heard",
+        "pastparticiple": "heard",
+        "meaning": "nghe"
+    },
+    {
+        "verb": "heave",
+        "simplepast": "hove/heaved",
+        "pastparticiple": "hove/heaved",
+        "meaning": "trục lên"
+    },
+    {
+        "verb": "hide",
+        "simplepast": "hid",
+        "pastparticiple": "hidden",
+        "meaning": "giấu, trốn, nấp"
+    },
+    {
+        "verb": "hit",
+        "simplepast": "hit",
+        "pastparticiple": "hit",
+        "meaning": "đụng"
+    },
+    {
+        "verb": "hurt",
+        "simplepast": "hurt",
+        "pastparticiple": "hurt",
+        "meaning": "làm đau"
+    },
+    {
+        "verb": "inlay",
+        "simplepast": "inlaid",
+        "pastparticiple": "inlaid",
+        "meaning": "cẩn, khảm"
+    },
+    {
+        "verb": "input",
+        "simplepast": "input",
+        "pastparticiple": "input",
+        "meaning": "đưa vào (máy điện toán)"
+    },
+    {
+        "verb": "inset",
+        "simplepast": "inset",
+        "pastparticiple": "inset",
+        "meaning": "dát, ghép"
+    },
+    {
+        "verb": "keep",
+        "simplepast": "kept",
+        "pastparticiple": "kept",
+        "meaning": "giữ"
+    },
+    {
+        "verb": "kneel",
+        "simplepast": "knelt/kneeled",
+        "pastparticiple": "knelt/kneeled",
+        "meaning": "quỳ"
+    },
+    {
+        "verb": "knit",
+        "simplepast": "knit/knitted",
+        "pastparticiple": "knit/knitted",
+        "meaning": "đan"
+    },
+    {
+        "verb": "know",
+        "simplepast": "knew",
+        "pastparticiple": "known",
+        "meaning": "biết, quen biết"
+    },
+    {
+        "verb": "lay",
+        "simplepast": "laid",
+        "pastparticiple": "laid",
+        "meaning": "đặt, để"
+    },
+    {
+        "verb": "lead",
+        "simplepast": "led",
+        "pastparticiple": "led",
+        "meaning": "dẫn dắt, lãnh đạo"
+    },
+    {
+        "verb": "leap ",
+        "simplepast": "leapt",
+        "pastparticiple": "leapt",
+        "meaning": "nhảy, nhảy qua"
+    },
+    {
+        "verb": "learn",
+        "simplepast": "learnt",
+        "pastparticiple": "learnt",
+        "meaning": "học, được biết"
+    },
+    {
+        "verb": "leave",
+        "simplepast": "left",
+        "pastparticiple": "left",
+        "meaning": "ra đi, để lại"
+    },
+    {
+        "verb": "lend ",
+        "simplepast": "lent",
+        "pastparticiple": "lent",
+        "meaning": "cho mượn (vay)"
+    },
+    {
+        "verb": "let",
+        "simplepast": "let",
+        "pastparticiple": "let",
+        "meaning": "cho phép, để cho"
+    },
+    {
+        "verb": "lie",
+        "simplepast": "lay",
+        "pastparticiple": "lain",
+        "meaning": "nằm"
+    },
+    {
+        "verb": "light",
+        "simplepast": "lit/lighted",
+        "pastparticiple": "lit/lighted",
+        "meaning": "thắp sáng"
+    },
+    {
+        "verb": "lose",
+        "simplepast": "lost",
+        "pastparticiple": "lost",
+        "meaning": "làm mất, mất"
+    },
+    {
+        "verb": "make",
+        "simplepast": "made",
+        "pastparticiple": "made",
+        "meaning": "chế tạo, sản xuất"
+    },
+    {
+        "verb": "mean",
+        "simplepast": "meant",
+        "pastparticiple": "meant",
+        "meaning": "có nghĩa là"
+    },
+    {
+        "verb": "meet",
+        "simplepast": "met",
+        "pastparticiple": "met",
+        "meaning": "gặp mặt"
+    },
+    {
+        "verb": "mislay",
+        "simplepast": "mislaid",
+        "pastparticiple": "mislaid",
+        "meaning": "để lạc mất"
+    },
+    {
+        "verb": "misread",
+        "simplepast": "misread",
+        "pastparticiple": "misread",
+        "meaning": "đọc sai"
+    },
+    {
+        "verb": "misspell",
+        "simplepast": "misspelt",
+        "pastparticiple": "misspelt",
+        "meaning": "viết sai chính tả"
+    },
+    {
+        "verb": "mistake",
+        "simplepast": "mistook",
+        "pastparticiple": "mistaken",
+        "meaning": "phạm lỗi, lầm lẫn"
+    },
+    {
+        "verb": "misunderstand",
+        "simplepast": "misunderstood",
+        "pastparticiple": "misunderstood",
+        "meaning": "hiểu lầm"
+    },
+    {
+        "verb": "mow",
+        "simplepast": "mowed",
+        "pastparticiple": "mown/mowed",
+        "meaning": "cắt cỏ"
+    },
+    {
+        "verb": "outbid",
+        "simplepast": "outbid",
+        "pastparticiple": "outbid",
+        "meaning": "trả hơn giá"
+    },
+    {
+        "verb": "outdo",
+        "simplepast": "outdid",
+        "pastparticiple": "outdone",
+        "meaning": "làm giỏi hơn"
+    },
+    {
+        "verb": "outgrow",
+        "simplepast": "outgrew",
+        "pastparticiple": "outgrown",
+        "meaning": "lớn nhanh hơn"
+    },
+    {
+        "verb": "output",
+        "simplepast": "output",
+        "pastparticiple": "output",
+        "meaning": "cho ra (dữ kiện)"
+    },
+    {
+        "verb": "outrun",
+        "simplepast": "outran",
+        "pastparticiple": "outrut",
+        "meaning": "chạy nhanh hơn; vượt giá"
+    },
+    {
+        "verb": "outsell",
+        "simplepast": "outsold",
+        "pastparticiple": "outsold",
+        "meaning": "bán nhanh hơn"
+    },
+    {
+        "verb": "overcome",
+        "simplepast": "overcame",
+        "pastparticiple": "overcome",
+        "meaning": "khắc phục"
+    },
+    {
+        "verb": "overeat",
+        "simplepast": "overate",
+        "pastparticiple": "overeaten",
+        "meaning": "ăn quá nhiều"
+    },
+    {
+        "verb": "overfly",
+        "simplepast": "overflew",
+        "pastparticiple": "overflown",
+        "meaning": "bay qua"
+    },
+    {
+        "verb": "overhang",
+        "simplepast": "overhung",
+        "pastparticiple": "overhung",
+        "meaning": "nhô lên trên, treo lơ lửng"
+    },
+    {
+        "verb": "overhear",
+        "simplepast": "overheard",
+        "pastparticiple": "overheard",
+        "meaning": "nghe trộm"
+    },
+    {
+        "verb": "overlay",
+        "simplepast": "overlaid",
+        "pastparticiple": "overlaid",
+        "meaning": "phủ lên"
+    },
+    {
+        "verb": "overpay",
+        "simplepast": "overpaid",
+        "pastparticiple": "overpaid",
+        "meaning": "trả quá tiền"
+    },
+    {
+        "verb": "overrun",
+        "simplepast": "overran",
+        "pastparticiple": "overrun",
+        "meaning": "tràn ngập"
+    },
+    {
+        "verb": "oversee",
+        "simplepast": "oversaw",
+        "pastparticiple": "overseen",
+        "meaning": "trông nom"
+    },
+    {
+        "verb": "overshoot",
+        "simplepast": "overshot",
+        "pastparticiple": "overshot",
+        "meaning": "đi quá đích"
+    },
+    {
+        "verb": "oversleep",
+        "simplepast": "overslept",
+        "pastparticiple": "overslept",
+        "meaning": "ngủ quên"
+    },
+    {
+        "verb": "overtake",
+        "simplepast": "overtook",
+        "pastparticiple": "overtaken",
+        "meaning": "đuổi bắt kịp"
+    },
+    {
+        "verb": "overthrow",
+        "simplepast": "overthrew",
+        "pastparticiple": "overthrown",
+        "meaning": "lật đổ"
+    },
+    {
+        "verb": "prove",
+        "simplepast": "proved",
+        "pastparticiple": " proven/proved",
+        "meaning": "chứng minh, chứng tỏ"
+    },
+    {
+        "verb": "put",
+        "simplepast": "put",
+        "pastparticiple": "put",
+        "meaning": " đặt; để"
+    },
+    {
+        "verb": "read",
+        "simplepast": "read",
+        "pastparticiple": "read",
+        "meaning": " đọc"
+    },
+    {
+        "verb": "pay",
+        "simplepast": "paid",
+        "pastparticiple": "paid",
+        "meaning": "trả (tiền)"
+    },
+    {
+        "verb": "rebuild",
+        "simplepast": "rebuilt",
+        "pastparticiple": "rebuilt",
+        "meaning": " xây dựng lại"
+    },
+    {
+        "verb": "redo",
+        "simplepast": "redid",
+        "pastparticiple": " redone",
+        "meaning": "làm lại"
+    },
+    {
+        "verb": "remake",
+        "simplepast": "remade",
+        "pastparticiple": " remade",
+        "meaning": "làm lại; chế tạo lại"
+    },
+    {
+        "verb": "rend",
+        "simplepast": "rent",
+        "pastparticiple": "rent",
+        "meaning": "toạc ra; xé"
+    },
+    {
+        "verb": "repay",
+        "simplepast": "repaid",
+        "pastparticiple": " repaid",
+        "meaning": "hoàn tiền lại"
+    },
+    {
+        "verb": "resell",
+        "simplepast": "resold",
+        "pastparticiple": " resold",
+        "meaning": "bán lại"
+    },
+    {
+        "verb": "retake",
+        "simplepast": "retook",
+        "pastparticiple": " retaken",
+        "meaning": "chiếm lại; tái chiếm"
+    },
+    {
+        "verb": "rewrite",
+        "simplepast": "rewrote",
+        "pastparticiple": " rewritten",
+        "meaning": "viết lại"
+    },
+    {
+        "verb": "rid",
+        "simplepast": "rid",
+        "pastparticiple": "rid",
+        "meaning": "giải thoát"
+    },
+    {
+        "verb": "ride",
+        "simplepast": "rode",
+        "pastparticiple": "ridden",
+        "meaning": "cưỡi"
+    },
+    {
+        "verb": "ring",
+        "simplepast": "rang",
+        "pastparticiple": "rung",
+        "meaning": "rung chuông"
+    },
+    {
+        "verb": "rise",
+        "simplepast": "rose",
+        "pastparticiple": "risen",
+        "meaning": "đứng dậy; mọc"
+    },
+    {
+        "verb": "saw",
+        "simplepast": "sawed",
+        "pastparticiple": "sawn",
+        "meaning": "cưa"
+    },
+    {
+        "verb": "say",
+        "simplepast": "said",
+        "pastparticiple": "said",
+        "meaning": "nói"
+    },
+    {
+        "verb": "see",
+        "simplepast": "saw",
+        "pastparticiple": "seen",
+        "meaning": "nhìn thấy"
+    },
+    {
+        "verb": "seek",
+        "simplepast": "sought",
+        "pastparticiple": "sought",
+        "meaning": "tìm kiếm"
+    },
+    {
+        "verb": "sell",
+        "simplepast": "sold",
+        "pastparticiple": "sold",
+        "meaning": "bán"
+    },
+    {
+        "verb": "send",
+        "simplepast": "sent",
+        "pastparticiple": "sent",
+        "meaning": "gửi"
+    },
+    {
+        "verb": "sew",
+        "simplepast": "sewed",
+        "pastparticiple": "sewn/sewed",
+        "meaning": "may"
+    },
+    {
+        "verb": "shake",
+        "simplepast": "shook",
+        "pastparticiple": "shaken",
+        "meaning": "lay; lắc"
+    },
+    {
+        "verb": "shear",
+        "simplepast": "sheared",
+        "pastparticiple": "shorn",
+        "meaning": "xén lông (Cừu)"
+    },
+    {
+        "verb": "shed",
+        "simplepast": "shed",
+        "pastparticiple": "shed",
+        "meaning": "rơi; rụng"
+    },
+    {
+        "verb": "shine",
+        "simplepast": "shone",
+        "pastparticiple": "shone",
+        "meaning": "chiếu sáng"
+    },
+    {
+        "verb": "shoot",
+        "simplepast": "shot",
+        "pastparticiple": "shot",
+        "meaning": "bắn"
+    },
+    {
+        "verb": "show",
+        "simplepast": "showed",
+        "pastparticiple": "shown/showed",
+        "meaning": "cho xem"
+    },
+    {
+        "verb": "shrink",
+        "simplepast": "shrank",
+        "pastparticiple": "shrunk",
+        "meaning": "co rút"
+    },
+    {
+        "verb": "shut",
+        "simplepast": "shut",
+        "pastparticiple": "shut",
+        "meaning": "đóng lại"
+    },
+    {
+        "verb": "sing",
+        "simplepast": "sang",
+        "pastparticiple": "sung",
+        "meaning": "ca hát"
+    },
+    {
+        "verb": "sink",
+        "simplepast": "sank",
+        "pastparticiple": "sunk",
+        "meaning": "chìm; lặn"
+    },
+    {
+        "verb": "sit",
+        "simplepast": "sat",
+        "pastparticiple": "sat",
+        "meaning": "ngồi"
+    },
+    {
+        "verb": "slay ",
+        "simplepast": "slew ",
+        "pastparticiple": "slain ",
+        "meaning": "sát hại; giết hại "
+    },
+    {
+        "verb": "sleep ",
+        "simplepast": "slept ",
+        "pastparticiple": "slept ",
+        "meaning": "ngủ"
+    },
+    {
+        "verb": "slide ",
+        "simplepast": "slid ",
+        "pastparticiple": "slid ",
+        "meaning": "trượt; lướt"
+    },
+    {
+        "verb": "sling ",
+        "simplepast": "slung ",
+        "pastparticiple": "slung ",
+        "meaning": "ném mạnh"
+    },
+    {
+        "verb": "slink ",
+        "simplepast": "slunk ",
+        "pastparticiple": "slunk ",
+        "meaning": "lẻn đi"
+    },
+    {
+        "verb": "smell ",
+        "simplepast": "smelt ",
+        "pastparticiple": "smelt ",
+        "meaning": "ngửi"
+    },
+    {
+        "verb": "smite ",
+        "simplepast": "smote ",
+        "pastparticiple": "smitten ",
+        "meaning": " đập mạnh"
+    },
+    {
+        "verb": "sow ",
+        "simplepast": " sowed ",
+        "pastparticiple": " sown/sewed ",
+        "meaning": " gieo; rải"
+    },
+    {
+        "verb": "speak ",
+        "simplepast": "spoke ",
+        "pastparticiple": "spoken ",
+        "meaning": "nói"
+    },
+    {
+        "verb": "speed ",
+        "simplepast": "sped/speeded ",
+        "pastparticiple": " sped/speeded ",
+        "meaning": "chạy vụt"
+    },
+    {
+        "verb": "spell ",
+        "simplepast": "spelt/spelled",
+        "pastparticiple": "spelt/spelled ",
+        "meaning": "đánh vần"
+    },
+    {
+        "verb": "spend ",
+        "simplepast": "spent ",
+        "pastparticiple": "spent ",
+        "meaning": "tiêu sài"
+    },
+    {
+        "verb": "spill ",
+        "simplepast": "spilt/spilled",
+        "pastparticiple": "spilt/spilled ",
+        "meaning": "tràn; đổ ra"
+    },
+    {
+        "verb": "spin ",
+        "simplepast": "pun/span ",
+        "pastparticiple": "spun ",
+        "meaning": "quay sợi"
+    },
+    {
+        "verb": "spit ",
+        "simplepast": "spat ",
+        "pastparticiple": "spat ",
+        "meaning": "khạc nhổ"
+    },
+    {
+        "verb": "spoil ",
+        "simplepast": "spoilt/spoiled",
+        "pastparticiple": " spoilt/spoiled ",
+        "meaning": " làm hỏng"
+    },
+    {
+        "verb": "spread ",
+        "simplepast": "spread ",
+        "pastparticiple": "spread ",
+        "meaning": "lan truyền"
+    },
+    {
+        "verb": "spring ",
+        "simplepast": "sprang ",
+        "pastparticiple": "sprung ",
+        "meaning": "nhảy"
+    },
+    {
+        "verb": "stand ",
+        "simplepast": "stood ",
+        "pastparticiple": "stood ",
+        "meaning": "đứng"
+    },
+    {
+        "verb": "stave ",
+        "simplepast": "stove/staved ",
+        "pastparticiple": " stove/staved ",
+        "meaning": "đâm thủng"
+    },
+    {
+        "verb": "steal ",
+        "simplepast": "stole ",
+        "pastparticiple": "stolen ",
+        "meaning": "đánh cắp"
+    },
+    {
+        "verb": "stick ",
+        "simplepast": "stuck ",
+        "pastparticiple": "stuck ",
+        "meaning": "ghim vào; đính"
+    },
+    {
+        "verb": "sting ",
+        "simplepast": "stung ",
+        "pastparticiple": "stung ",
+        "meaning": "châm ; chích; đốt"
+    },
+    {
+        "verb": "stink ",
+        "simplepast": "stunk/stank ",
+        "pastparticiple": " stunk ",
+        "meaning": " bốc mùi hôi"
+    },
+    {
+        "verb": "strew ",
+        "simplepast": "strewed ",
+        "pastparticiple": " strewn/strewed",
+        "meaning": " rắc , rải"
+    },
+    {
+        "verb": "stride ",
+        "simplepast": "strode ",
+        "pastparticiple": "stridden ",
+        "meaning": "bước sải"
+    },
+    {
+        "verb": "strike ",
+        "simplepast": "struck ",
+        "pastparticiple": "struck ",
+        "meaning": "đánh đập"
+    },
+    {
+        "verb": "string ",
+        "simplepast": "strung ",
+        "pastparticiple": "strung ",
+        "meaning": "gắn dây vào"
+    },
+    {
+        "verb": "strive ",
+        "simplepast": "strove ",
+        "pastparticiple": "striven ",
+        "meaning": " cố sức"
+    },
+    {
+        "verb": "swear ",
+        "simplepast": "swore ",
+        "pastparticiple": "sworn ",
+        "meaning": "tuyên thệ"
+    },
+    {
+        "verb": "sweep ",
+        "simplepast": "swept ",
+        "pastparticiple": "swept ",
+        "meaning": "quét"
+    },
+    {
+        "verb": "swell ",
+        "simplepast": "swelled",
+        "pastparticiple": " swollen/swelled",
+        "meaning": " phồng; sưng "
+    },
+    {
+        "verb": "swim ",
+        "simplepast": "swam ",
+        "pastparticiple": "swum ",
+        "meaning": " bơi lội"
+    },
+    {
+        "verb": "swing ",
+        "simplepast": "swung ",
+        "pastparticiple": "swung ",
+        "meaning": " đong đưa"
+    },
+    {
+        "verb": "take ",
+        "simplepast": "took ",
+        "pastparticiple": "taken ",
+        "meaning": " cầm ; lấy"
+    },
+    {
+        "verb": "teach ",
+        "simplepast": "taught ",
+        "pastparticiple": "taught ",
+        "meaning": " dạy ; giảng dạy"
+    },
+    {
+        "verb": "tear ",
+        "simplepast": "tore ",
+        "pastparticiple": "torn ",
+        "meaning": " xé; rách"
+    },
+    {
+        "verb": "tell ",
+        "simplepast": "told ",
+        "pastparticiple": "told ",
+        "meaning": " kể ; bảo"
+    },
+    {
+        "verb": "think ",
+        "simplepast": "thought",
+        "pastparticiple": " thought ",
+        "meaning": " suy nghĩ"
+    },
+    {
+        "verb": "throw ",
+        "simplepast": "threw ",
+        "pastparticiple": "thrown ",
+        "meaning": " ném ; liệng"
+    },
+    {
+        "verb": "thrust ",
+        "simplepast": "thrust ",
+        "pastparticiple": "thrust ",
+        "meaning": " thọc ;nhấn"
+    },
+    {
+        "verb": "tread ",
+        "simplepast": "trod ",
+        "pastparticiple": "trodden/trod ",
+        "meaning": " giẫm ; đạp"
+    },
+    {
+        "verb": "unbend ",
+        "simplepast": "unbent ",
+        "pastparticiple": "unbent ",
+        "meaning": " làm thẳng lại"
+    },
+    {
+        "verb": "undercut",
+        "simplepast": "undercut",
+        "pastparticiple": "undercut ",
+        "meaning": "ra giá rẻ hơn"
+    },
+    {
+        "verb": "undergo",
+        "simplepast": " underwent",
+        "pastparticiple": "undergone ",
+        "meaning": " kinh qua"
+    },
+    {
+        "verb": "underlie",
+        "simplepast": "underlay ",
+        "pastparticiple": " underlain ",
+        "meaning": " nằm dưới "
+    },
+    {
+        "verb": "underpay",
+        "simplepast": "underpaid ",
+        "pastparticiple": "underpaid ",
+        "meaning": " trả lương thấp"
+    },
+    {
+        "verb": "undersell",
+        "simplepast": "undersold ",
+        "pastparticiple": " undersold ",
+        "meaning": " bán rẻ hơn"
+    },
+    {
+        "verb": "understand",
+        "simplepast": "understood ",
+        "pastparticiple": " understood ",
+        "meaning": " hiểu"
+    },
+    {
+        "verb": "undertake",
+        "simplepast": "undertook ",
+        "pastparticiple": " undertaken ",
+        "meaning": " đảm nhận"
+    },
+    {
+        "verb": "underwrite",
+        "simplepast": "underwrote ",
+        "pastparticiple": " underwritten",
+        "meaning": "bảo hiểm"
+    },
+    {
+        "verb": "undo ",
+        "simplepast": "undid ",
+        "pastparticiple": " undone ",
+        "meaning": " tháo ra"
+    },
+    {
+        "verb": "unfreeze",
+        "simplepast": "unfroze ",
+        "pastparticiple": " unfrozen",
+        "meaning": " làm tan đông"
+    },
+    {
+        "verb": "unwind ",
+        "simplepast": "unwound ",
+        "pastparticiple": " unwound ",
+        "meaning": " tháo ra"
+    },
+    {
+        "verb": "uphold ",
+        "simplepast": "upheld ",
+        "pastparticiple": " upheld ",
+        "meaning": " ủng hộ"
+    },
+    {
+        "verb": "upset ",
+        "simplepast": "upset ",
+        "pastparticiple": " upset ",
+        "meaning": " đánh đổ; lật đổ"
+    },
+    {
+        "verb": "wake ",
+        "simplepast": "woke/waked ",
+        "pastparticiple": "woken/waked ",
+        "meaning": " thức giấc"
+    },
+    {
+        "verb": "waylay ",
+        "simplepast": "waylaid ",
+        "pastparticiple": " waylaid ",
+        "meaning": " mai phục"
+    },
+    {
+        "verb": "wear ",
+        "simplepast": "wore ",
+        "pastparticiple": " worn ",
+        "meaning": " mặc"
+    },
+    {
+        "verb": "weave ",
+        "simplepast": "wove/weaved ",
+        "pastparticiple": " woven/weaved",
+        "meaning": " dệt"
+    },
+    {
+        "verb": "wed ",
+        "simplepast": " wed/wedded",
+        "pastparticiple": " wed/wedded",
+        "meaning": " kết hôn"
+    },
+    {
+        "verb": "weep ",
+        "simplepast": "wept ",
+        "pastparticiple": " wept ",
+        "meaning": " khóc"
+    },
+    {
+        "verb": "wet ",
+        "simplepast": " wet/wetted",
+        "pastparticiple": " wet/wetted",
+        "meaning": " làm ướt"
+    },
+    {
+        "verb": "win ",
+        "simplepast": " won ",
+        "pastparticiple": " won ",
+        "meaning": " thắng ; chiến thắng"
+    },
+    {
+        "verb": "wind ",
+        "simplepast": "wound ",
+        "pastparticiple": " wound ",
+        "meaning": " quấn"
+    },
+    {
+        "verb": "withdraw",
+        "simplepast": "withdrew ",
+        "pastparticiple": " withdrawn ",
+        "meaning": " rút lui"
+    },
+    {
+        "verb": "withhold",
+        "simplepast": "withheld ",
+        "pastparticiple": " withheld ",
+        "meaning": " từ khước"
+    },
+    {
+        "verb": "withstand",
+        "simplepast": "withstood ",
+        "pastparticiple": " withstood",
+        "meaning": " cầm cự"
+    },
+    {
+        "verb": "work ",
+        "simplepast": "worked ",
+        "pastparticiple": " worked ",
+        "meaning": " rèn (sắt), nhào nặng đất"
+    },
+    {
+        "verb": "wring ",
+        "simplepast": "wrung ",
+        "pastparticiple": " wrung ",
+        "meaning": " vặn ; siết chặt"
+    },
+    {
+        "verb": "write ",
+        "simplepast": "wrote ",
+        "pastparticiple": " written ",
+        "meaning": " viết"
+    }
+]
