@@ -18,6 +18,7 @@ class MainViewController: UIViewController {
         super.viewDidLoad()
         dicttionaryFuncCV.dataSource = self
         dicttionaryFuncCV.delegate = self
+        view.setGradientBackground(firstColor: Colors.mediumBlue, secondColor: Colors.heavyBlack, thirdColor: Colors.lightBlue, fourColor: Colors.blackBlue)
     }
 }
 extension MainViewController : UICollectionViewDelegate {
@@ -35,6 +36,9 @@ extension MainViewController : UICollectionViewDelegate {
         case 3:
             self.performSegue(withIdentifier: StoryboardConstants.segueVocabularyImportant, sender: nil)
             break
+        case 4:
+            self.performSegue(withIdentifier: StoryboardConstants.segueWordSearchedVC, sender: nil)
+            break
         default:
             break
         }
@@ -43,7 +47,7 @@ extension MainViewController : UICollectionViewDelegate {
 }
 extension MainViewController : UICollectionViewDataSource {
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return 4
+        return 5
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
@@ -64,6 +68,8 @@ extension MainViewController : UICollectionViewDataSource {
         case 3:
             cell.customCollectionViewCell(imageName: "icons8-dictionary", title: "Từ vựng quan trọng")
             break
+        case 4:
+            cell.customCollectionViewCell(imageName: "icons8-time_machine", title: "Các từ đã tra")
         default:
             break
         }

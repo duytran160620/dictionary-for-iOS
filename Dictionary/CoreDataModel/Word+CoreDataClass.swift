@@ -1,5 +1,5 @@
 //
-//  WordSearched+CoreDataClass.swift
+//  Word+CoreDataClass.swift
 //  Dictionary
 //
 //  Created by admin on 19/10/2020.
@@ -10,7 +10,7 @@
 import Foundation
 import CoreData
 
-@objc(WordSearched)
-public class WordSearched: NSManagedObject {
+@objc(Word)
+public class Word: NSManagedObject {
 
 }

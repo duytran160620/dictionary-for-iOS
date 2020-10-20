@@ -14,6 +14,7 @@ class AnhVietViewController: UIViewController {
     
     @IBOutlet weak var txtValue: UITextField!
     @IBOutlet weak var tableViewResult: UITableView!
+    var database:DBLocalManager = DBLocalManager.shared
     var sentences:[Sentence]?
     
     override func viewDidLoad() {
@@ -52,6 +53,7 @@ class AnhVietViewController: UIViewController {
         if let encodedString = input.addingPercentEncoding(withAllowedCharacters: CharacterSet.urlHostAllowed){
             let link = API.API_URL + "/s/" + encodedString + "/" + Language.en.rawValue
             getDataFromAPI(withURL: link) { (dict) in
+                self.database.insertNewWord(word: input, examples: dict.sentences)
                 self.sentences = dict.sentences
                 self.tableViewResult.reloadData()
             }
