@@ -36,14 +36,27 @@ struct Colors {
     static let mediumBlue = UIColor(red: 49/255, green: 55/255, blue: 80/255, alpha: 1)
 }
 extension UIView {
-    func setGradientBackground(firstColor:UIColor, secondColor:UIColor, thirdColor:UIColor, fourColor:UIColor)
+    func setGradientBackground(firstColor:UIColor, secondColor:UIColor)
     {
         let layer = CAGradientLayer()
-        layer.colors = [firstColor, secondColor, thirdColor, fourColor]
-        layer.locations = [0, 0.2, 0.4, 0.1]
-        layer.startPoint = CGPoint(x: 0, y: 0)
-        layer.endPoint = CGPoint(x: 1.0, y: 1.0)
+        layer.frame = bounds
+        layer.colors = [firstColor.cgColor, secondColor.cgColor]
+        layer.locations = [0, 1,2,3]
+        layer.startPoint = CGPoint(x: 1, y: 1)
+        layer.endPoint = CGPoint(x: 0, y: 0)
         self.layer.addSublayer(layer)
     }
 }
-
+extension Array where Element: Hashable {
+    var removeDuplicated: Array {
+        var buffer = Array()
+        var added = Set<Element>()
+        for elem in self {
+            if !added.contains(elem) {
+                buffer.append(elem)
+                added.insert(elem)
+            }
+        }
+        return buffer
+    }
+}

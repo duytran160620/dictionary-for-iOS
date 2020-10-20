@@ -18,7 +18,7 @@ class MainViewController: UIViewController {
         super.viewDidLoad()
         dicttionaryFuncCV.dataSource = self
         dicttionaryFuncCV.delegate = self
-        view.setGradientBackground(firstColor: Colors.mediumBlue, secondColor: Colors.heavyBlack, thirdColor: Colors.lightBlue, fourColor: Colors.blackBlue)
+        dicttionaryFuncCV.contentMode = .scaleAspectFit
     }
 }
 extension MainViewController : UICollectionViewDelegate {

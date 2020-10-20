@@ -29,7 +29,15 @@ class WordSearchedViewController: UIViewController {
         wordSearchBar.delegate = self
         wordSearchBar.showsCancelButton = true
         database.fetchWordFromLocal { (words) in
-            self.words = words
+            var wordSet = Set<String>()
+            var unique = [Word]()
+            for item in words {
+                if !wordSet.contains(item.word!) {
+                    unique.append(item)
+                    wordSet.insert(item.word!)
+                }
+            }
+            self.words = unique
             self.wordSearchedTableView.reloadData()
         }
     }
@@ -56,6 +64,10 @@ extension WordSearchedViewController:UITableViewDataSource , UITableViewDelegate
         let action = UIContextualAction(style: UIContextualAction.Style.destructive, title: "Delete") { (action, view, completionHandler) in
             let selectedWord = self.words[indexPath.row]
             self.database.delete(word: selectedWord)
+            self.database.fetchWordFromLocal(completion: { (word) in
+                self.words = word
+                self.wordSearchedTableView.reloadData()
+            })
         }
         return UISwipeActionsConfiguration(actions: [action])
     }
